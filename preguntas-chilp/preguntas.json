@@ -29,11 +29,11 @@
     "respuestas": [
       {
         "texto": "Mole",
-        "valor": 25
+        "valor": 28
       },
       {
         "texto": "Chile en Nogada",
-        "valor": 18
+        "valor": 25
       },
       {
         "texto": "Chalupa",
@@ -992,6 +992,1006 @@
       {
         "texto": "Sandalias",
         "valor": 10
+      }
+    ]
+  },
+  {
+    "enunciación": "Además de chile guajillo, menciona otro chile seco",
+    "respuestas": [
+      {
+        "texto": "Chile de árbol",
+        "valor": 26
+      },
+      {
+        "texto": "Chile Pasilla",
+        "valor": 24
+      },
+      {
+        "texto": "Morita",
+        "valor": 20
+      },
+      {
+        "texto": "Ancho",
+        "valor": 17
+      },
+      {
+        "texto": "Chipotle",
+        "valor": 13
+      }
+    ]
+  },
+  {
+    "enunciación": "Sabor de agua más común que hay en una fonda.",
+    "respuestas": [
+      {
+        "texto": "Jamaica",
+        "valor": 36
+      },
+      {
+        "texto": "Limón",
+        "valor": 28
+      },
+      {
+        "texto": "Horchata",
+        "valor": 17
+      },
+      {
+        "texto": "Sandía",
+        "valor": 13
+      },
+      {
+        "texto": "Tamarindo",
+        "valor": 6
+      }
+    ]
+  },
+  {
+    "enunciación": "Presentación en la que puedes comprar un jabón.",
+    "respuestas": [
+      {
+        "texto": "Líquido",
+        "valor": 32
+      },
+      {
+        "texto": "Barra",
+        "valor": 25
+      },
+      {
+        "texto": "En polvo/ bolsa",
+        "valor": 19
+      },
+      {
+        "texto": "En pasta",
+        "valor": 15
+      },
+      {
+        "texto": "Por caja",
+        "valor": 9
+      }
+    ]
+  },
+  {
+    "enunciación": "Regalo más común para un baby shower.",
+    "respuestas": [
+      {
+        "texto": "Pañales",
+        "valor": 38
+      },
+      {
+        "texto": "Cobijas",
+        "valor": 27
+      },
+      {
+        "texto": "Biberones",
+        "valor": 14
+      },
+      {
+        "texto": "Mamelucos",
+        "valor": 12
+      },
+      {
+        "texto": "Tina de Baño",
+        "valor": 9
+      }
+    ]
+  },
+  {
+    "enunciación": "¿Qué animal se utiliza como medio de transporte?",
+    "respuestas": [
+      {
+        "texto": "Caballo",
+        "valor": 39
+      },
+      {
+        "texto": "Burro",
+        "valor": 29
+      },
+      {
+        "texto": "Camello",
+        "valor": 18
+      },
+      {
+        "texto": "Elefante",
+        "valor": 10
+      },
+      {
+        "texto": "Mula",
+        "valor": 4
+      }
+    ]
+  },
+  {
+    "enunciación": "Además de salchichonería, ¿qué otro departamento encuentras en un supermercado?",
+    "respuestas": [
+      {
+        "texto": "Panadería",
+        "valor": 28
+      },
+      {
+        "texto": "Vinos y Licores",
+        "valor": 26
+      },
+      {
+        "texto": "Lácteos",
+        "valor": 19
+      },
+      {
+        "texto": "Abarrotes",
+        "valor": 15
+      },
+      {
+        "texto": "Farmacia",
+        "valor": 12
+      }
+    ]
+  },
+  {
+    "enunciación": "Animal con cuerno.",
+    "respuestas": [
+      {
+        "texto": "Toro",
+        "valor": 34
+      },
+      {
+        "texto": "Venado",
+        "valor": 26
+      },
+      {
+        "texto": "Rinoceronte",
+        "valor": 19
+      },
+      {
+        "texto": "Chivo",
+        "valor": 12
+      },
+      {
+        "texto": "Vaca",
+        "valor": 9
+      }
+    ]
+  },
+  {
+    "enunciación": "¿Qué es lo más común que le regalas a tu pareja en un aniversario?",
+    "respuestas": [
+      {
+        "texto": "Flores",
+        "valor": 27
+      },
+      {
+        "texto": "Chocolates",
+        "valor": 22
+      },
+      {
+        "texto": "Ropa",
+        "valor": 20
+      },
+      {
+        "texto": "Cena/Comida",
+        "valor": 19
+      },
+      {
+        "texto": "Joyería/Reloj",
+        "valor": 12
+      }
+    ]
+  },
+  {
+    "enunciación": "¿Qué artículo necesitas para darte un baño?",
+    "respuestas": [
+      {
+        "texto": "Jabón",
+        "valor": 34
+      },
+      {
+        "texto": "Shampoo",
+        "valor": 25
+      },
+      {
+        "texto": "Zacate/Esponja",
+        "valor": 18
+      },
+      {
+        "texto": "Agua",
+        "valor": 13
+      },
+      {
+        "texto": "Cepillo",
+        "valor": 10
+      }
+    ]
+  },
+  {
+    "enunciación": "Comida más común que dan en una boda típica de pueblo.",
+    "respuestas": [
+      {
+        "texto": "Mole",
+        "valor": 36
+      },
+      {
+        "texto": "Carnitas",
+        "valor": 24
+      },
+      {
+        "texto": "Birria",
+        "valor": 18
+      },
+      {
+        "texto": "Barbacoa",
+        "valor": 13
+      },
+      {
+        "texto": "Arroz",
+        "valor": 9
+      }
+    ]
+  },
+  {
+    "enunciación": "Otra manera del decirle a tu papá",
+    "respuestas": [
+      {
+        "texto": "Jefe",
+        "valor": 29
+      },
+      {
+        "texto": "Papi",
+        "valor": 26
+      },
+      {
+        "texto": "Papito",
+        "valor": 21
+      },
+      {
+        "texto": "Daddy",
+        "valor": 15
+      },
+      {
+        "texto": "Apá/Pá",
+        "valor": 9
+      }
+    ]
+  },
+  {
+    "enunciación": "Animal que tiene cuello largo",
+    "respuestas": [
+      {
+        "texto": "Jirafa",
+        "valor": 37
+      },
+      {
+        "texto": "Avestruz",
+        "valor": 22
+      },
+      {
+        "texto": "Camello",
+        "valor": 20
+      },
+      {
+        "texto": "Garza",
+        "valor": 14
+      },
+      {
+        "texto": "Guajolote/Cisne",
+        "valor": 7
+      }
+    ]
+  },
+  {
+    "enunciación": "Cosas que te venden en una función de circo.",
+    "respuestas": [
+      {
+        "texto": "Palomitas",
+        "valor": 39
+      },
+      {
+        "texto": "Algodón de Azúcar",
+        "valor": 32
+      },
+      {
+        "texto": "Boletos",
+        "valor": 16
+      },
+      {
+        "texto": "Fotos",
+        "valor": 8
+      },
+      {
+        "texto": "Juguetes",
+        "valor": 5
+      }
+    ]
+  },
+  {
+    "enunciación": "Moneda que acepta un cajero de estacionamiento.",
+    "respuestas": [
+      {
+        "texto": "5 Pesos",
+        "valor": 37
+      },
+      {
+        "texto": "10 Pesos",
+        "valor": 26
+      },
+      {
+        "texto": "2 Pesos",
+        "valor": 19
+      },
+      {
+        "texto": "50 Centavos",
+        "valor": 15
+      },
+      {
+        "texto": "1 Peso",
+        "valor": 3
+      }
+    ]
+  },
+  {
+    "enunciación": "Menciona una licenciatura o carrera común.",
+    "respuestas": [
+      {
+        "texto": "Derecho",
+        "valor": 36
+      },
+      {
+        "texto": "Contador",
+        "valor": 24
+      },
+      {
+        "texto": "Medicina",
+        "valor": 17
+      },
+      {
+        "texto": "Arquitectura",
+        "valor": 14
+      },
+      {
+        "texto": "Psicología",
+        "valor": 9
+      }
+    ]
+  },
+  {
+    "enunciación": "Además del espresso, manera más popular de preparar el café",
+    "respuestas": [
+      {
+        "texto": "Capuchino",
+        "valor": 29
+      },
+      {
+        "texto": "Café Soluble",
+        "valor": 27
+      },
+      {
+        "texto": "Negro",
+        "valor": 19
+      },
+      {
+        "texto": "De Olla",
+        "valor": 17
+      },
+      {
+        "texto": "Moka",
+        "valor": 8
+      }
+    ]
+  },
+  {
+    "enunciación": "¿Qué te puedes depilar?",
+    "respuestas": [
+      {
+        "texto": "Axilas",
+        "valor": 30
+      },
+      {
+        "texto": "Piernas",
+        "valor": 25
+      },
+      {
+        "texto": "Cejas",
+        "valor": 18
+      },
+      {
+        "texto": "Bigote",
+        "valor": 15
+      },
+      {
+        "texto": "Brazos",
+        "valor": 12
+      }
+    ]
+  },
+  {
+    "enunciación": "¿Para qué puedes utilizar un caballo?",
+    "respuestas": [
+      {
+        "texto": "Pasear",
+        "valor": 29
+      },
+      {
+        "texto": "Carreras",
+        "valor": 26
+      },
+      {
+        "texto": "Terapia",
+        "valor": 21
+      },
+      {
+        "texto": "Trabajo",
+        "valor": 14
+      },
+      {
+        "texto": "Transporte",
+        "valor": 10
+      }
+    ]
+  },
+  {
+    "enunciación": "Además de Presidente, menciona otro cargo público que represente a la gente.",
+    "respuestas": [
+      {
+        "texto": "Gobernador",
+        "valor": 31
+      },
+      {
+        "texto": "Diputado",
+        "valor": 27
+      },
+      {
+        "texto": "Senador",
+        "valor": 20
+      },
+      {
+        "texto": "Jefe de Gobierno",
+        "valor": 13
+      },
+      {
+        "texto": "Delegado/Alcalde",
+        "valor": 9
+      }
+    ]
+  },
+  {
+    "enunciación": "Menciona una comida típica yucateca.",
+    "respuestas": [
+      {
+        "texto": "Cochinita Pibil",
+        "valor": 35
+      },
+      {
+        "texto": "Panuchos",
+        "valor": 23
+      },
+      {
+        "texto": "Papatzules",
+        "valor": 17
+      },
+      {
+        "texto": "Sopa de Lima",
+        "valor": 14
+      },
+      {
+        "texto": "Tamales",
+        "valor": 11
+      }
+    ]
+  },
+  {
+    "enunciación": "Prenda de vestir con bolsas.",
+    "respuestas": [
+      {
+        "texto": "Pantalón",
+        "valor": 34
+      },
+      {
+        "texto": "Chamarra",
+        "valor": 25
+      },
+      {
+        "texto": "Camisa",
+        "valor": 20
+      },
+      {
+        "texto": "Saco",
+        "valor": 12
+      },
+      {
+        "texto": "Vestido",
+        "valor": 9
+      }
+    ]
+  },
+  {
+    "enunciación": "Mueble que encuentras en una recámara.",
+    "respuestas": [
+      {
+        "texto": "Cama",
+        "valor": 37
+      },
+      {
+        "texto": "Buró",
+        "valor": 29
+      },
+      {
+        "texto": "Clóset",
+        "valor": 17
+      },
+      {
+        "texto": "Tocador",
+        "valor": 12
+      },
+      {
+        "texto": "Cajonera",
+        "valor": 5
+      }
+    ]
+  },
+  {
+    "enunciación": "Remedio para desinflamar un golpe en la cara.",
+    "respuestas": [
+      {
+        "texto": "Hielo",
+        "valor": 35
+      },
+      {
+        "texto": "Bistec",
+        "valor": 30
+      },
+      {
+        "texto": "Árnica",
+        "valor": 17
+      },
+      {
+        "texto": "Pomada",
+        "valor": 10
+      },
+      {
+        "texto": "Sábila",
+        "valor": 8
+      }
+    ]
+  },
+  {
+    "enunciación": "Además del cine, lugar con baño público.",
+    "respuestas": [
+      {
+        "texto": "Centro Comercial",
+        "valor": 30
+      },
+      {
+        "texto": "Restaurante",
+        "valor": 24
+      },
+      {
+        "texto": "Teatro",
+        "valor": 20
+      },
+      {
+        "texto": "Gasolinera",
+        "valor": 16
+      },
+      {
+        "texto": "Cafetería",
+        "valor": 10
+      }
+    ]
+  },
+  {
+    "enunciación": "Estado de la República Mexicana que empieza con C.",
+    "respuestas": [
+      {
+        "texto": "Chihuahua",
+        "valor": 40
+      },
+      {
+        "texto": "Coahuila",
+        "valor": 25
+      },
+      {
+        "texto": "Colima",
+        "valor": 16
+      },
+      {
+        "texto": "Campeche",
+        "valor": 11
+      },
+      {
+        "texto": "Chiapas",
+        "valor": 8
+      }
+    ]
+  },
+  {
+    "enunciación": "Padrinos que hay en una fiesta de 15 años.",
+    "respuestas": [
+      {
+        "texto": "Pastel",
+        "valor": 28
+      },
+      {
+        "texto": "Vestido",
+        "valor": 26
+      },
+      {
+        "texto": "Brindis/Copas",
+        "valor": 20
+      },
+      {
+        "texto": "Último Juguete",
+        "valor": 18
+      },
+      {
+        "texto": "Sonido/Música",
+        "valor": 8
+      }
+    ]
+  },
+  {
+    "enunciación": "Menciona un lugar turístico de Chiapas.",
+    "respuestas": [
+      {
+        "texto": "Cañon del Sumidero",
+        "valor": 28
+      },
+      {
+        "texto": "San Cristobal de las Casas",
+        "valor": 26
+      },
+      {
+        "texto": "Palenque",
+        "valor": 21
+      },
+      {
+        "texto": "Tuxtla Gutiérrez",
+        "valor": 16
+      },
+      {
+        "texto": "Laguna de Montebello",
+        "valor": 9
+      }
+    ]
+  },
+  {
+    "enunciación": "Además de las orejas, ¿qué otra parte del cuerpo de puedes perforar?",
+    "respuestas": [
+      {
+        "texto": "Nariz",
+        "valor": 29
+      },
+      {
+        "texto": "Ombligo",
+        "valor": 25
+      },
+      {
+        "texto": "Lengua",
+        "valor": 19
+      },
+      {
+        "texto": "Labio",
+        "valor": 15
+      },
+      {
+        "texto": "Ceja",
+        "valor": 12
+      }
+    ]
+  },
+  {
+    "enunciación": "Fruta de color amarillo.",
+    "respuestas": [
+      {
+        "texto": "Mango",
+        "valor": 36
+      },
+      {
+        "texto": "Plátano",
+        "valor": 26
+      },
+      {
+        "texto": "Piña",
+        "valor": 17
+      },
+      {
+        "texto": "Guayaba",
+        "valor": 14
+      },
+      {
+        "texto": "Durazno",
+        "valor": 7
+      }
+    ]
+  },
+  {
+    "enunciación": "Menciona un país en el que su idioma sea el inglés.",
+    "respuestas": [
+      {
+        "texto": "Estados Unidos",
+        "valor": 29
+      },
+      {
+        "texto": "Inglaterra",
+        "valor": 22
+      },
+      {
+        "texto": "Canada",
+        "valor": 19
+      },
+      {
+        "texto": "Puerto Rico",
+        "valor": 17
+      },
+      {
+        "texto": "Jamaica",
+        "valor": 13
+      }
+    ]
+  },
+  {
+    "enunciación": "Sabor que puede tener un chicle",
+    "respuestas": [
+      {
+        "texto": "Menta",
+        "valor": 33
+      },
+      {
+        "texto": "Yerbabuena",
+        "valor": 27
+      },
+      {
+        "texto": "Frutal",
+        "valor": 21
+      },
+      {
+        "texto": "Canela",
+        "valor": 14
+      },
+      {
+        "texto": "Sandía",
+        "valor": 5
+      }
+    ]
+  },
+  {
+    "enunciación": "¿Qué conservas como recuerdo de un bebé?",
+    "respuestas": [
+      {
+        "texto": "Zapatito",
+        "valor": 38
+      },
+      {
+        "texto": "Cabello",
+        "valor": 20
+      },
+      {
+        "texto": "Ropa",
+        "valor": 16
+      },
+      {
+        "texto": "Diente",
+        "valor": 14
+      },
+      {
+        "texto": "Fotos",
+        "valor": 12
+      }
+    ]
+  },
+  {
+    "enunciación": "Lugares más populares que los turistas visitan en la Ciudad de México.",
+    "respuestas": [
+      {
+        "texto": "Zócalo",
+        "valor": 34
+      },
+      {
+        "texto": "La Villa",
+        "valor": 28
+      },
+      {
+        "texto": "Bellas Artes",
+        "valor": 19
+      },
+      {
+        "texto": "Xochimilco",
+        "valor": 12
+      },
+      {
+        "texto": "Chapultepec",
+        "valor": 7
+      }
+    ]
+  },
+  {
+    "enunciación": "¿Qué haces para que se vea limpio un piso?",
+    "respuestas": [
+      {
+        "texto": "Barrer",
+        "valor": 29
+      },
+      {
+        "texto": "Trapear",
+        "valor": 27
+      },
+      {
+        "texto": "Pulir",
+        "valor": 20
+      },
+      {
+        "texto": "Lavar",
+        "valor": 15
+      },
+      {
+        "texto": "Encerar",
+        "valor": 9
+      }
+    ]
+  },
+  {
+    "enunciación": "Algo que pones en tu cartera",
+    "respuestas": [
+      {
+        "texto": "Dinero",
+        "valor": 31
+      },
+      {
+        "texto": "Identificaciones",
+        "valor": 29
+      },
+      {
+        "texto": "Tarjetas de Crédito",
+        "valor": 20
+      },
+      {
+        "texto": "Fotos",
+        "valor": 11
+      },
+      {
+        "texto": "Estampas",
+        "valor": 9
+      }
+    ]
+  },
+  {
+    "enunciación": "¿De qué color puede ser un vino?",
+    "respuestas": [
+      {
+        "texto": "Rojo",
+        "valor": 30
+      },
+      {
+        "texto": "Blanco",
+        "valor": 24
+      },
+      {
+        "texto": "Rosa",
+        "valor": 20
+      },
+      {
+        "texto": "Verde",
+        "valor": 18
+      },
+      {
+        "texto": "Púrpura",
+        "valor": 8
+      }
+    ]
+  },
+  {
+    "enunciación": "¿Para qué pones alarmas en tu teléfono?",
+    "respuestas": [
+      {
+        "texto": "Despertador",
+        "valor": 40
+      },
+      {
+        "texto": "Recordar algo",
+        "valor": 24
+      },
+      {
+        "texto": "Tomar Medicamento",
+        "valor": 19
+      },
+      {
+        "texto": "Una Cita",
+        "valor": 14
+      },
+      {
+        "texto": "Ir a la Escuela",
+        "valor": 3
+      }
+    ]
+  },
+  {
+    "enunciación": "¿De qué material puede ser una cancha de fútbol",
+    "respuestas": [
+      {
+        "texto": "Pasto",
+        "valor": 35
+      },
+      {
+        "texto": "Tierra",
+        "valor": 25
+      },
+      {
+        "texto": "Pasto Sintético",
+        "valor": 19
+      },
+      {
+        "texto": "Cemento",
+        "valor": 12
+      },
+      {
+        "texto": "Pavimento",
+        "valor": 9
+      }
+    ]
+  },
+  {
+    "enunciación": "Alimento que produce gases.",
+    "respuestas": [
+      {
+        "texto": "Frijoles",
+        "valor": 36
+      },
+      {
+        "texto": "Brócoli",
+        "valor": 28
+      },
+      {
+        "texto": "Coliflor",
+        "valor": 16
+      },
+      {
+        "texto": "Habas",
+        "valor": 11
+      },
+      {
+        "texto": "Leche",
+        "valor": 9
+      }
+    ]
+  },
+  {
+    "enunciación": "Si llega el esposo/a a la casa ¿Dónde escondes al tercero en discordia?",
+    "respuestas": [
+      {
+        "texto": "Clóset",
+        "valor": 33
+      },
+      {
+        "texto": "Debajo de la cama",
+        "valor": 27
+      },
+      {
+        "texto": "Baño",
+        "valor": 22
+      },
+      {
+        "texto": "Balcón",
+        "valor": 10
+      },
+      {
+        "texto": "Garage",
+        "valor": 8
       }
     ]
   }
