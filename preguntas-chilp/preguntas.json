@@ -46,27 +46,27 @@
     ]
   },
   {
-    "enunciación": "Accesorio que le compras a un perro.",
+    "enunciación": "Animal que puedes encontrar en un árbol.",
     "respuestas": [
       {
-        "texto": "Collar",
-        "valor": 36
+        "texto": "Ardilla",
+        "valor": 34
       },
       {
-        "texto": "Correa/Cadena",
-        "valor": 29
+        "texto": "Pájaro",
+        "valor": 28
       },
       {
-        "texto": "Hueso",
-        "valor": 18
+        "texto": "Chango",
+        "valor": 16
       },
       {
-        "texto": "Pelota",
-        "valor": 10
+        "texto": "Hormiga",
+        "valor": 13
       },
       {
-        "texto": "Sueter",
-        "valor": 7
+        "texto": "Lagartija",
+        "valor": 9
       }
     ]
   },
@@ -121,122 +121,126 @@
     ]
   },
   {
-    "enunciación": "¿Qué aprendes de memoria en la primaria?",
+    "enunciación": "En un cuento de hadas, ¿qué no puede faltar?",
     "respuestas": [
       {
-        "texto": "Tablas de multiplicar",
-        "valor": 37
+        "texto": "Princesa",
+        "valor": 52
       },
       {
-        "texto": "Abecedario/vocales",
-        "valor": 22
+        "texto": "Príncipe",
+        "valor": 24
       },
       {
-        "texto": "Himno Nacional",
-        "valor": 19
+        "texto": "Hada",
+        "valor": 11
       },
       {
-        "texto": "Historia",
-        "valor": 14
-      },
-      {
-        "texto": "Canciones",
+        "texto": "Magia",
         "valor": 8
+      },
+      {
+        "texto": "Villano",
+        "valor": 5
       }
     ]
   },
   {
-    "enunciación": "Menciona un platillo típico poblano.",
+    "enunciación": "Menciona que comida no puede faltar en una fiesta infantil.",
     "respuestas": [
       {
-        "texto": "Mole",
-        "valor": 25
+        "texto": "Pastel",
+        "valor": 29
       },
       {
-        "texto": "Chile en Nogada",
-        "valor": 18
+        "texto": "Hot Dogs",
+        "valor": 24
       },
       {
-        "texto": "Chalupa",
-        "valor": 16
+        "texto": "Sopa Fria",
+        "valor": 19
       },
       {
-        "texto": "Camote",
+        "texto": "Dulces",
+        "valor": 15
+      },
+      {
+        "texto": "Papas",
         "valor": 13
       }
     ]
   },
   {
-    "enunciación": "Accesorio que le compras a un perro.",
+    "enunciación": "¿Qué es lo primero que una mujer ve físicamente en un hombre?",
     "respuestas": [
       {
-        "texto": "Collar",
-        "valor": 36
+        "texto": "Ojos",
+        "valor": 34
       },
       {
-        "texto": "Correa/Cadena",
-        "valor": 29
+        "texto": "Cara",
+        "valor": 27
       },
       {
-        "texto": "Hueso",
-        "valor": 18
+        "texto": "Pompas",
+        "valor": 19
       },
       {
-        "texto": "Pelota",
-        "valor": 10
+        "texto": "Cuerpo/Músculos",
+        "valor": 11
       },
       {
-        "texto": "Sueter",
-        "valor": 7
+        "texto": "Estatura",
+        "valor": 9
       }
     ]
   },
   {
-    "enunciación": "Accesorio que le compras a un perro.",
+    "enunciación": "Sabor que puede tener un jarabe para la tos.",
     "respuestas": [
       {
-        "texto": "Collar",
-        "valor": 36
+        "texto": "Cereza",
+        "valor": 28
       },
       {
-        "texto": "Correa/Cadena",
-        "valor": 29
+        "texto": "Fresa",
+        "valor": 24
       },
       {
-        "texto": "Hueso",
-        "valor": 18
+        "texto": "Miel",
+        "valor": 19
       },
       {
-        "texto": "Pelota",
-        "valor": 10
+        "texto": "Frambuesa",
+        "valor": 17
       },
       {
-        "texto": "Sueter",
-        "valor": 7
+        "texto": "Uva",
+        "valor": 12
       }
     ]
   },
   {
-    "enunciación": "Accesorio que le compras a un perro.",
+    "enunciación": "Mneciona una pieza de un juego geométrico.",
     "respuestas": [
       {
-        "texto": "Collar",
+        "texto": "Escuadra",
         "valor": 36
       },
       {
-        "texto": "Correa/Cadena",
-        "valor": 29
+        "texto": "Regla",
+        "valor": 25
       },
       {
-        "texto": "Hueso",
-        "valor": 18
+        "texto": "Compás",
+        "valor": 17
       },
       {
-        "texto": "Pelota",
-        "valor": 10
+        "texto": "Transportador",
+        "valor": 15
       },
       {
-        "texto": "Sueter",
+        "texto": "Plantilla de Curvas",
         "valor": 7
       }
     ]
