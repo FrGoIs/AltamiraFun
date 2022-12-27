@@ -671,327 +671,327 @@
     ]
   },
   {
-    "enunciación": "¿Qué es lo primero que una mujer ve físicamente en un hombre?",
+    "enunciación": "Además de maciza,¿de qué puedes pedir un taco de carnitas?",
     "respuestas": [
       {
-        "texto": "Ojos",
-        "valor": 34
+        "texto": "Buche",
+        "valor": 41
       },
       {
-        "texto": "Cara",
-        "valor": 27
-      },
-      {
-        "texto": "Pompas",
-        "valor": 19
-      },
-      {
-        "texto": "Cuerpo/Músculos",
-        "valor": 11
-      },
-      {
-        "texto": "Estatura",
-        "valor": 9
-      }
-    ]
-  },
-  {
-    "enunciación": "Sabor que puede tener un jarabe para la tos.",
-    "respuestas": [
-      {
-        "texto": "Cereza",
-        "valor": 28
-      },
-      {
-        "texto": "Fresa",
+        "texto": "Surtida",
         "valor": 24
       },
       {
-        "texto": "Miel",
-        "valor": 19
-      },
-      {
-        "texto": "Frambuesa",
-        "valor": 17
-      },
-      {
-        "texto": "Uva",
-        "valor": 12
-      }
-    ]
-  },
-  {
-    "enunciación": "Mneciona una pieza de un juego geométrico.",
-    "respuestas": [
-      {
-        "texto": "Escuadra",
-        "valor": 36
-      },
-      {
-        "texto": "Regla",
-        "valor": 25
-      },
-      {
-        "texto": "Compás",
-        "valor": 17
-      },
-      {
-        "texto": "Transportador",
-        "valor": 15
-      },
-      {
-        "texto": "Plantilla de Curvas",
-        "valor": 7
-      }
-    ]
-  },
-  {
-    "enunciación": "Animal doméstico que tienes en una jaula",
-    "respuestas": [
-      {
-        "texto": "Pájaro",
-        "valor": 30
-      },
-      {
-        "texto": "Perico",
-        "valor": 29
-      },
-      {
-        "texto": "Hámster",
+        "texto": "Cueritos",
         "valor": 18
       },
       {
-        "texto": "Gato",
-        "valor": 15
-      },
-      {
-        "texto": "Conejo",
-        "valor": 8
-      }
-    ]
-  },
-  {
-    "enunciación": "Ingredientes del que puede estar rellena una galleta",
-    "respuestas": [
-      {
-        "texto": "Chocolate",
-        "valor": 32
-      },
-      {
-        "texto": "Cajeta",
-        "valor": 26
-      },
-      {
-        "texto": "Mermelada",
-        "valor": 19
-      },
-      {
-        "texto": "Crema",
-        "valor": 14
-      },
-      {
-        "texto": "Bombon",
-        "valor": 9
-      }
-    ]
-  },
-  {
-    "enunciación": "Sintoma que te quitas al tomarte un antigripal.",
-    "respuestas": [
-      {
-        "texto": "Dolor de Cabeza",
-        "valor": 34
-      },
-      {
-        "texto": "Fluido Nasal",
-        "valor": 29
-      },
-      {
-        "texto": "Cuerpo Cortado",
-        "valor": 15
-      },
-      {
-        "texto": "Tos",
+        "texto": "Chamorro",
         "valor": 12
       },
       {
-        "texto": "Fiebre",
-        "valor": 10
+        "texto": "Costilla",
+        "valor": 5
       }
     ]
   },
   {
-    "enunciación": "Algo que la gente hace cuando va a un concierto.",
+    "enunciación": "Menciona un animal que sea mascota de un equipo de fútbol mexicano.",
     "respuestas": [
       {
-        "texto": "Cantar",
+        "texto": "Águila",
         "valor": 37
       },
       {
-        "texto": "Gritar",
+        "texto": "Tigre",
         "valor": 29
       },
       {
-        "texto": "Tomar Fotos",
-        "valor": 17
+        "texto": "Puma",
+        "valor": 15
       },
       {
-        "texto": "Escuchar Musica",
-        "valor": 10
-      },
-      {
-        "texto": "Beber",
-        "valor": 7
-      }
-    ]
-  },
-  {
-    "enunciación": "Alimento que compras enlatado.",
-    "respuestas": [
-      {
-        "texto": "Atún",
-        "valor": 29
-      },
-      {
-        "texto": "Frijoles",
-        "valor": 24
-      },
-      {
-        "texto": "Chiles en Nogada",
-        "valor": 19
-      },
-      {
-        "texto": "Sardinas",
-        "valor": 17
-      },
-      {
-        "texto": "Duraznos en Almíbar",
+        "texto": "Chiva",
         "valor": 11
+      },
+      {
+        "texto": "Jaguar",
+        "valor": 8
       }
     ]
   },
   {
-    "enunciación": "Si el Chavo del 8 hiciera una fiesta, ¿a quién invitaría?",
+    "enunciación": "Además de salida de emergencia, menciona otra señalización más popular.",
     "respuestas": [
       {
-        "texto": "Chilindrina",
+        "texto": "Extinguidor",
         "valor": 36
       },
       {
-        "texto": "Quico",
-        "valor": 26
+        "texto": "Escaleras",
+        "valor": 23
       },
       {
-        "texto": "Ñoño",
-        "valor": 19
-      },
-      {
-        "texto": "La Popis",
-        "valor": 12
-      },
-      {
-        "texto": "Don Ramón",
-        "valor": 7
-      }
-    ]
-  },
-  {
-    "enunciación": "Animal más famoso del zoológico.",
-    "respuestas": [
-      {
-        "texto": "León",
-        "valor": 32
-      },
-      {
-        "texto": "Elefante",
-        "valor": 26
-      },
-      {
-        "texto": "Oso Panda",
-        "valor": 19
-      },
-      {
-        "texto": "Tigre",
-        "valor": 13
-      },
-      {
-        "texto": "Mono/Chango",
-        "valor": 10
-      }
-    ]
-  },
-  {
-    "enunciación": "¿Qué objeto utilizas para escribir?",
-    "respuestas": [
-      {
-        "texto": "Pluma",
-        "valor": 31
-      },
-      {
-        "texto": "Lápiz",
-        "valor": 25
-      },
-      {
-        "texto": "Plumón",
-        "valor": 21
-      },
-      {
-        "texto": "Marcador",
-        "valor": 16
-      },
-      {
-        "texto": "Colores",
-        "valor": 7
-      }
-    ]
-  },
-  {
-    "enunciación": "Además de billetes de $200, ¿Que otra denominación hay?.",
-    "respuestas": [
-      {
-        "texto": "Quinientos Pesos",
-        "valor": 39
-      },
-      {
-        "texto": "Cien Pesos",
-        "valor": 28
-      },
-      {
-        "texto": "Cincuenta Pesos",
-        "valor": 16
-      },
-      {
-        "texto": "Veinte Pesos",
-        "valor": 11
-      },
-      {
-        "texto": "Mil Pesos",
-        "valor": 6
-      }
-    ]
-  },
-  {
-    "enunciación": "Parte del cuerpo más común en la que te haces un tatuaje.",
-    "respuestas": [
-      {
-        "texto": "Brazos",
-        "valor": 35
-      },
-      {
-        "texto": "Espalda",
-        "valor": 29
-      },
-      {
-        "texto": "Manos",
+        "texto": "Punto de Reunión",
         "valor": 18
       },
       {
-        "texto": "Piernas",
-        "valor": 10
+        "texto": "Baño",
+        "valor": 13
       },
       {
-        "texto": "Pecho",
+        "texto": "No Fumar",
+        "valor": 10
+      }
+    ]
+  },
+  {
+    "enunciación": "Menciona algo que no puede faltar en un bautizo",
+    "respuestas": [
+      {
+        "texto": "Niño",
+        "valor": 29
+      },
+      {
+        "texto": "Padrinos",
+        "valor": 22
+      },
+      {
+        "texto": "Bolo",
+        "valor": 18
+      },
+      {
+        "texto": "El Cura",
+        "valor": 16
+      },
+      {
+        "texto": "Agua Bendita",
+        "valor": 15
+      }
+    ]
+  },
+  {
+    "enunciación": "¿Para que se acompañan entre mujeres?",
+    "respuestas": [
+      {
+        "texto": "Para ir al baño",
+        "valor": 29
+      },
+      {
+        "texto": "Para ir de compras",
+        "valor": 25
+      },
+      {
+        "texto": "Para no salir solas",
+        "valor": 19
+      },
+      {
+        "texto": "Para platicar",
+        "valor": 14
+      },
+      {
+        "texto": "Para ir al cine",
+        "valor": 13
+      }
+    ]
+  },
+  {
+    "enunciación": "Regalo más común que das en una boda.",
+    "respuestas": [
+      {
+        "texto": "Vajilla",
+        "valor": 30
+      },
+      {
+        "texto": "Licuadora",
+        "valor": 26
+      },
+      {
+        "texto": "Juego de sábanas",
+        "valor": 20
+      },
+      {
+        "texto": "Toallas",
+        "valor": 17
+      },
+      {
+        "texto": "Microondas",
+        "valor": 7
+      }
+    ]
+  },
+  {
+    "enunciación": "¿Con que flor se hacen arreglos funerarios?",
+    "respuestas": [
+      {
+        "texto": "Rosa",
+        "valor": 33
+      },
+      {
+        "texto": "Clavel",
+        "valor": 28
+      },
+      {
+        "texto": "Nube",
+        "valor": 19
+      },
+      {
+        "texto": "Crisantemos",
+        "valor": 12
+      },
+      {
+        "texto": "Margaritas",
         "valor": 8
+      }
+    ]
+  },
+  {
+    "enunciación": "Además de juegos, ¿qué hay en un parque?",
+    "respuestas": [
+      {
+        "texto": "Bancas",
+        "valor": 34
+      },
+      {
+        "texto": "Árboles",
+        "valor": 23
+      },
+      {
+        "texto": "Aparatos para hacer ejercicio",
+        "valor": 18
+      },
+      {
+        "texto": "Niños",
+        "valor": 15
+      },
+      {
+        "texto": "Vendedores",
+        "valor": 10
+      }
+    ]
+  },
+  {
+    "enunciación": "Deporte que se juega con un balón",
+    "respuestas": [
+      {
+        "texto": "Fútbol",
+        "valor": 38
+      },
+      {
+        "texto": "Básquetbol",
+        "valor": 25
+      },
+      {
+        "texto": "Fútbol Americano",
+        "valor": 16
+      },
+      {
+        "texto": "Béisbol",
+        "valor": 13
+      },
+      {
+        "texto": "Voleibol",
+        "valor": 8
+      }
+    ]
+  },
+  {
+    "enunciación": "Además de novelas, ¿qué puedes ver en la televisión?",
+    "respuestas": [
+      {
+        "texto": "Caricaturas",
+        "valor": 35
+      },
+      {
+        "texto": "Películas",
+        "valor": 29
+      },
+      {
+        "texto": "Series",
+        "valor": 17
+      },
+      {
+        "texto": "Noticieros",
+        "valor": 14
+      },
+      {
+        "texto": "Deportes/Fútbol",
+        "valor": 5
+      }
+    ]
+  },
+  {
+    "enunciación": "Cosas que te venden dentro de un estadio de fútbol",
+    "respuestas": [
+      {
+        "texto": "Cerveza",
+        "valor": 33
+      },
+      {
+        "texto": "Playeras",
+        "valor": 27
+      },
+      {
+        "texto": "Refrescos",
+        "valor": 18
+      },
+      {
+        "texto": "Banderas",
+        "valor": 14
+      },
+      {
+        "texto": "Gorras",
+        "valor": 8
+      }
+    ]
+  },
+  {
+    "enunciación": "Además de rimel ¿qué otro cosmético se utiliza para maquillarse?",
+    "respuestas": [
+      {
+        "texto": "Lapiz labial/Bilé",
+        "valor": 34
+      },
+      {
+        "texto": "Delineador",
+        "valor": 28
+      },
+      {
+        "texto": "Sombras",
+        "valor": 17
+      },
+      {
+        "texto": "Rubor",
+        "valor": 13
+      },
+      {
+        "texto": "Maquillaje/Base",
+        "valor": 8
+      }
+    ]
+  },
+  {
+    "enunciación": "¿Qué llevas en tu maleta cuando vas a un balneario?",
+    "respuestas": [
+      {
+        "texto": "Traje de Baño",
+        "valor": 28
+      },
+      {
+        "texto": "Toalla",
+        "valor": 26
+      },
+      {
+        "texto": "Ropa",
+        "valor": 23
+      },
+      {
+        "texto": "Bloqueador",
+        "valor": 13
+      },
+      {
+        "texto": "Sandalias",
+        "valor": 10
       }
     ]
   }
