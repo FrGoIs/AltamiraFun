@@ -1,1 +1,48 @@
-hola paco 
+[
+  {
+    "enunciación": "¿Qué aprendes de memoria en la primaria?",
+    "preguntas": [
+      {
+        "texto": "Tablas de multiplicar",
+        "valor": 37
+      },
+      {
+        "texto": "Abecedario/vocales",
+        "valor": 22
+      },
+      {
+        "texto": "Himno Nacional",
+        "valor": 19
+      },
+      {
+        "texto": "Historia",
+        "valor": 14
+      },
+      {
+        "texto": "Canciones",
+        "valor": 8
+      }
+    ]
+  },
+  {
+    "enunciación": "Menciona un platillo típico poblano.",
+    "preguntas": [
+      {
+        "texto": "Mole",
+        "valor": 25
+      },
+      {
+        "texto": "Chile en Nogada",
+        "valor": 18
+      },
+      {
+        "texto": "Chalupa",
+        "valor": 16
+      },
+      {
+        "texto": "Camote",
+        "valor": 13
+      }
+    ]
+  }
+]
