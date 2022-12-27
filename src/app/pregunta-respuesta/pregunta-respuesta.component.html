@@ -1,1 +1,16 @@
-<p>pregunta-respuesta works!</p>
+<div class="dashboard">
+    <div class="pregunta" *ngFor="let pregunta of preguntas">
+        {{pregunta.enunciacion}}
+        <div class="contenedor-respuestas">
+            <div *ngFor="let respuesta of pregunta.respuestas">
+                <p>
+                    {{respuesta.texto}}
+                </p>
+                <p>
+                    {{respuesta.valor}}
+                </p>
+
+            </div>
+        </div>
+    </div>
+</div>
