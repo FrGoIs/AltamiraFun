@@ -244,5 +244,755 @@
         "valor": 7
       }
     ]
+  },
+  {
+    "enunciación": "Animal doméstico que tienes en una jaula",
+    "respuestas": [
+      {
+        "texto": "Pájaro",
+        "valor": 30
+      },
+      {
+        "texto": "Perico",
+        "valor": 29
+      },
+      {
+        "texto": "Hámster",
+        "valor": 18
+      },
+      {
+        "texto": "Gato",
+        "valor": 15
+      },
+      {
+        "texto": "Conejo",
+        "valor": 8
+      }
+    ]
+  },
+  {
+    "enunciación": "Ingredientes del que puede estar rellena una galleta",
+    "respuestas": [
+      {
+        "texto": "Chocolate",
+        "valor": 32
+      },
+      {
+        "texto": "Cajeta",
+        "valor": 26
+      },
+      {
+        "texto": "Mermelada",
+        "valor": 19
+      },
+      {
+        "texto": "Crema",
+        "valor": 14
+      },
+      {
+        "texto": "Bombon",
+        "valor": 9
+      }
+    ]
+  },
+  {
+    "enunciación": "Sintoma que te quitas al tomarte un antigripal.",
+    "respuestas": [
+      {
+        "texto": "Dolor de Cabeza",
+        "valor": 34
+      },
+      {
+        "texto": "Fluido Nasal",
+        "valor": 29
+      },
+      {
+        "texto": "Cuerpo Cortado",
+        "valor": 15
+      },
+      {
+        "texto": "Tos",
+        "valor": 12
+      },
+      {
+        "texto": "Fiebre",
+        "valor": 10
+      }
+    ]
+  },
+  {
+    "enunciación": "Algo que la gente hace cuando va a un concierto.",
+    "respuestas": [
+      {
+        "texto": "Cantar",
+        "valor": 37
+      },
+      {
+        "texto": "Gritar",
+        "valor": 29
+      },
+      {
+        "texto": "Tomar Fotos",
+        "valor": 17
+      },
+      {
+        "texto": "Escuchar Musica",
+        "valor": 10
+      },
+      {
+        "texto": "Beber",
+        "valor": 7
+      }
+    ]
+  },
+  {
+    "enunciación": "Alimento que compras enlatado.",
+    "respuestas": [
+      {
+        "texto": "Atún",
+        "valor": 29
+      },
+      {
+        "texto": "Frijoles",
+        "valor": 24
+      },
+      {
+        "texto": "Chiles en Nogada",
+        "valor": 19
+      },
+      {
+        "texto": "Sardinas",
+        "valor": 17
+      },
+      {
+        "texto": "Duraznos en Almíbar",
+        "valor": 11
+      }
+    ]
+  },
+  {
+    "enunciación": "Si el Chavo del 8 hiciera una fiesta, ¿a quién invitaría?",
+    "respuestas": [
+      {
+        "texto": "Chilindrina",
+        "valor": 36
+      },
+      {
+        "texto": "Quico",
+        "valor": 26
+      },
+      {
+        "texto": "Ñoño",
+        "valor": 19
+      },
+      {
+        "texto": "La Popis",
+        "valor": 12
+      },
+      {
+        "texto": "Don Ramón",
+        "valor": 7
+      }
+    ]
+  },
+  {
+    "enunciación": "Animal más famoso del zoológico.",
+    "respuestas": [
+      {
+        "texto": "León",
+        "valor": 32
+      },
+      {
+        "texto": "Elefante",
+        "valor": 26
+      },
+      {
+        "texto": "Oso Panda",
+        "valor": 19
+      },
+      {
+        "texto": "Tigre",
+        "valor": 13
+      },
+      {
+        "texto": "Mono/Chango",
+        "valor": 10
+      }
+    ]
+  },
+  {
+    "enunciación": "¿Qué objeto utilizas para escribir?",
+    "respuestas": [
+      {
+        "texto": "Pluma",
+        "valor": 31
+      },
+      {
+        "texto": "Lápiz",
+        "valor": 25
+      },
+      {
+        "texto": "Plumón",
+        "valor": 21
+      },
+      {
+        "texto": "Marcador",
+        "valor": 16
+      },
+      {
+        "texto": "Colores",
+        "valor": 7
+      }
+    ]
+  },
+  {
+    "enunciación": "Además de billetes de $200, ¿Que otra denominación hay?.",
+    "respuestas": [
+      {
+        "texto": "Quinientos Pesos",
+        "valor": 39
+      },
+      {
+        "texto": "Cien Pesos",
+        "valor": 28
+      },
+      {
+        "texto": "Cincuenta Pesos",
+        "valor": 16
+      },
+      {
+        "texto": "Veinte Pesos",
+        "valor": 11
+      },
+      {
+        "texto": "Mil Pesos",
+        "valor": 6
+      }
+    ]
+  },
+  {
+    "enunciación": "Parte del cuerpo más común en la que te haces un tatuaje.",
+    "respuestas": [
+      {
+        "texto": "Brazos",
+        "valor": 35
+      },
+      {
+        "texto": "Espalda",
+        "valor": 29
+      },
+      {
+        "texto": "Manos",
+        "valor": 18
+      },
+      {
+        "texto": "Piernas",
+        "valor": 10
+      },
+      {
+        "texto": "Pecho",
+        "valor": 8
+      }
+    ]
+  },
+  {
+    "enunciación": "Además del nacimiento de un hijo ¿con qué evento te emocionas?",
+    "respuestas": [
+      {
+        "texto": "Boda",
+        "valor": 38
+      },
+      {
+        "texto": "Nacimiento de otro bebé",
+        "valor": 29
+      },
+      {
+        "texto": "Película",
+        "valor": 17
+      },
+      {
+        "texto": "Festival del Día de las Madres",
+        "valor": 10
+      },
+      {
+        "texto": "Concierto",
+        "valor": 6
+      }
+    ]
+  },
+  {
+    "enunciación": "Menciona un ave con pico largo.",
+    "respuestas": [
+      {
+        "texto": "Tucán",
+        "valor": 32
+      },
+      {
+        "texto": "Pelícano",
+        "valor": 27
+      },
+      {
+        "texto": "Garza",
+        "valor": 22
+      },
+      {
+        "texto": "Cigüeña",
+        "valor": 13
+      },
+      {
+        "texto": "Flamingo",
+        "valor": 6
+      }
+    ]
+  },
+  {
+    "enunciación": "Identificación oficial que lleva fotografía.",
+    "respuestas": [
+      {
+        "texto": "Credencial de Elector (INE/IFE)",
+        "valor": 35
+      },
+      {
+        "texto": "Pasaporte",
+        "valor": 28
+      },
+      {
+        "texto": "Licencia de Conducir",
+        "valor": 20
+      },
+      {
+        "texto": "Credencial de la 3a Edad",
+        "valor": 10
+      },
+      {
+        "texto": "Cédula",
+        "valor": 7
+      }
+    ]
+  },
+  {
+    "enunciación": "Menciona un tipo de calzón de mujer.",
+    "respuestas": [
+      {
+        "texto": "Tanga",
+        "valor": 33
+      },
+      {
+        "texto": "Bikini",
+        "valor": 28
+      },
+      {
+        "texto": "Cachetero",
+        "valor": 20
+      },
+      {
+        "texto": "Pantaleta",
+        "valor": 15
+      },
+      {
+        "texto": "Bóxer",
+        "valor": 4
+      }
+    ]
+  },
+  {
+    "enunciación": "Oficio que empiece con la letra C.",
+    "respuestas": [
+      {
+        "texto": "Carpintero",
+        "valor": 39
+      },
+      {
+        "texto": "Cajero",
+        "valor": 23
+      },
+      {
+        "texto": "Cocinero",
+        "valor": 19
+      },
+      {
+        "texto": "Carnicero",
+        "valor": 11
+      },
+      {
+        "texto": "Constructor",
+        "valor": 8
+      }
+    ]
+  },
+  {
+    "enunciación": "Color del arcoíris.",
+    "respuestas": [
+      {
+        "texto": "Rojo",
+        "valor": 30
+      },
+      {
+        "texto": "Azul",
+        "valor": 23
+      },
+      {
+        "texto": "Amarillo",
+        "valor": 18
+      },
+      {
+        "texto": "Verde",
+        "valor": 17
+      },
+      {
+        "texto": "Morado",
+        "valor": 12
+      }
+    ]
+  },
+  {
+    "enunciación": "Cosas que no pueden faltar en una pañalera.",
+    "respuestas": [
+      {
+        "texto": "Pañales",
+        "valor": 33
+      },
+      {
+        "texto": "Toallitas",
+        "valor": 31
+      },
+      {
+        "texto": "Biberón",
+        "valor": 18
+      },
+      {
+        "texto": "Leche",
+        "valor": 10
+      },
+      {
+        "texto": "Ropa de Bebé",
+        "valor": 8
+      }
+    ]
+  },
+  {
+    "enunciación": "¿Qué es lo primero que una mujer ve físicamente en un hombre?",
+    "respuestas": [
+      {
+        "texto": "Ojos",
+        "valor": 34
+      },
+      {
+        "texto": "Cara",
+        "valor": 27
+      },
+      {
+        "texto": "Pompas",
+        "valor": 19
+      },
+      {
+        "texto": "Cuerpo/Músculos",
+        "valor": 11
+      },
+      {
+        "texto": "Estatura",
+        "valor": 9
+      }
+    ]
+  },
+  {
+    "enunciación": "Sabor que puede tener un jarabe para la tos.",
+    "respuestas": [
+      {
+        "texto": "Cereza",
+        "valor": 28
+      },
+      {
+        "texto": "Fresa",
+        "valor": 24
+      },
+      {
+        "texto": "Miel",
+        "valor": 19
+      },
+      {
+        "texto": "Frambuesa",
+        "valor": 17
+      },
+      {
+        "texto": "Uva",
+        "valor": 12
+      }
+    ]
+  },
+  {
+    "enunciación": "Mneciona una pieza de un juego geométrico.",
+    "respuestas": [
+      {
+        "texto": "Escuadra",
+        "valor": 36
+      },
+      {
+        "texto": "Regla",
+        "valor": 25
+      },
+      {
+        "texto": "Compás",
+        "valor": 17
+      },
+      {
+        "texto": "Transportador",
+        "valor": 15
+      },
+      {
+        "texto": "Plantilla de Curvas",
+        "valor": 7
+      }
+    ]
+  },
+  {
+    "enunciación": "Animal doméstico que tienes en una jaula",
+    "respuestas": [
+      {
+        "texto": "Pájaro",
+        "valor": 30
+      },
+      {
+        "texto": "Perico",
+        "valor": 29
+      },
+      {
+        "texto": "Hámster",
+        "valor": 18
+      },
+      {
+        "texto": "Gato",
+        "valor": 15
+      },
+      {
+        "texto": "Conejo",
+        "valor": 8
+      }
+    ]
+  },
+  {
+    "enunciación": "Ingredientes del que puede estar rellena una galleta",
+    "respuestas": [
+      {
+        "texto": "Chocolate",
+        "valor": 32
+      },
+      {
+        "texto": "Cajeta",
+        "valor": 26
+      },
+      {
+        "texto": "Mermelada",
+        "valor": 19
+      },
+      {
+        "texto": "Crema",
+        "valor": 14
+      },
+      {
+        "texto": "Bombon",
+        "valor": 9
+      }
+    ]
+  },
+  {
+    "enunciación": "Sintoma que te quitas al tomarte un antigripal.",
+    "respuestas": [
+      {
+        "texto": "Dolor de Cabeza",
+        "valor": 34
+      },
+      {
+        "texto": "Fluido Nasal",
+        "valor": 29
+      },
+      {
+        "texto": "Cuerpo Cortado",
+        "valor": 15
+      },
+      {
+        "texto": "Tos",
+        "valor": 12
+      },
+      {
+        "texto": "Fiebre",
+        "valor": 10
+      }
+    ]
+  },
+  {
+    "enunciación": "Algo que la gente hace cuando va a un concierto.",
+    "respuestas": [
+      {
+        "texto": "Cantar",
+        "valor": 37
+      },
+      {
+        "texto": "Gritar",
+        "valor": 29
+      },
+      {
+        "texto": "Tomar Fotos",
+        "valor": 17
+      },
+      {
+        "texto": "Escuchar Musica",
+        "valor": 10
+      },
+      {
+        "texto": "Beber",
+        "valor": 7
+      }
+    ]
+  },
+  {
+    "enunciación": "Alimento que compras enlatado.",
+    "respuestas": [
+      {
+        "texto": "Atún",
+        "valor": 29
+      },
+      {
+        "texto": "Frijoles",
+        "valor": 24
+      },
+      {
+        "texto": "Chiles en Nogada",
+        "valor": 19
+      },
+      {
+        "texto": "Sardinas",
+        "valor": 17
+      },
+      {
+        "texto": "Duraznos en Almíbar",
+        "valor": 11
+      }
+    ]
+  },
+  {
+    "enunciación": "Si el Chavo del 8 hiciera una fiesta, ¿a quién invitaría?",
+    "respuestas": [
+      {
+        "texto": "Chilindrina",
+        "valor": 36
+      },
+      {
+        "texto": "Quico",
+        "valor": 26
+      },
+      {
+        "texto": "Ñoño",
+        "valor": 19
+      },
+      {
+        "texto": "La Popis",
+        "valor": 12
+      },
+      {
+        "texto": "Don Ramón",
+        "valor": 7
+      }
+    ]
+  },
+  {
+    "enunciación": "Animal más famoso del zoológico.",
+    "respuestas": [
+      {
+        "texto": "León",
+        "valor": 32
+      },
+      {
+        "texto": "Elefante",
+        "valor": 26
+      },
+      {
+        "texto": "Oso Panda",
+        "valor": 19
+      },
+      {
+        "texto": "Tigre",
+        "valor": 13
+      },
+      {
+        "texto": "Mono/Chango",
+        "valor": 10
+      }
+    ]
+  },
+  {
+    "enunciación": "¿Qué objeto utilizas para escribir?",
+    "respuestas": [
+      {
+        "texto": "Pluma",
+        "valor": 31
+      },
+      {
+        "texto": "Lápiz",
+        "valor": 25
+      },
+      {
+        "texto": "Plumón",
+        "valor": 21
+      },
+      {
+        "texto": "Marcador",
+        "valor": 16
+      },
+      {
+        "texto": "Colores",
+        "valor": 7
+      }
+    ]
+  },
+  {
+    "enunciación": "Además de billetes de $200, ¿Que otra denominación hay?.",
+    "respuestas": [
+      {
+        "texto": "Quinientos Pesos",
+        "valor": 39
+      },
+      {
+        "texto": "Cien Pesos",
+        "valor": 28
+      },
+      {
+        "texto": "Cincuenta Pesos",
+        "valor": 16
+      },
+      {
+        "texto": "Veinte Pesos",
+        "valor": 11
+      },
+      {
+        "texto": "Mil Pesos",
+        "valor": 6
+      }
+    ]
+  },
+  {
+    "enunciación": "Parte del cuerpo más común en la que te haces un tatuaje.",
+    "respuestas": [
+      {
+        "texto": "Brazos",
+        "valor": 35
+      },
+      {
+        "texto": "Espalda",
+        "valor": 29
+      },
+      {
+        "texto": "Manos",
+        "valor": 18
+      },
+      {
+        "texto": "Piernas",
+        "valor": 10
+      },
+      {
+        "texto": "Pecho",
+        "valor": 8
+      }
+    ]
   }
 ]
