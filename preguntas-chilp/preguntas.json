@@ -1,7 +1,7 @@
 [
   {
     "enunciación": "¿Qué aprendes de memoria en la primaria?",
-    "preguntas": [
+    "respuestas": [
       {
         "texto": "Tablas de multiplicar",
         "valor": 37
@@ -26,7 +26,7 @@
   },
   {
     "enunciación": "Menciona un platillo típico poblano.",
-    "preguntas": [
+    "respuestas": [
       {
         "texto": "Mole",
         "valor": 25
@@ -42,6 +42,31 @@
       {
         "texto": "Camote",
         "valor": 13
+      }
+    ]
+  },
+  {
+    "enunciación": "Accesorio que le compras a un perro.",
+    "respuestas": [
+      {
+        "texto": "Collar",
+        "valor": 36
+      },
+      {
+        "texto": "Correa/Cadena",
+        "valor": 29
+      },
+      {
+        "texto": "Hueso",
+        "valor": 18
+      },
+      {
+        "texto": "Pelota",
+        "valor": 10
+      },
+      {
+        "texto": "Sueter",
+        "valor": 7
       }
     ]
   }
