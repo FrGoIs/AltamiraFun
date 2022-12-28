@@ -25,6 +25,31 @@
     ]
   },
   {
+    "enunciación": "Propósito de Año Nuevo más popular",
+    "respuestas": [
+      {
+        "texto": "Bajar de peso",
+        "valor": 33
+      },
+      {
+        "texto": "Hacer Ejercicio",
+        "valor": 29
+      },
+      {
+        "texto": "Prosperidad",
+        "valor": 17
+      },
+      {
+        "texto": "Encontrar el Amor",
+        "valor": 13
+      },
+      {
+        "texto": "Estar bien con la Familia",
+        "valor": 8
+      }
+    ]
+  },
+  {
     "enunciación": "¿Qué artículo compra la señora qué canta (se compran...)?",
     "respuestas": [
       {
@@ -2096,502 +2121,702 @@
     ]
   },
   {
-    "enunciación": "Prenda de vestir con bolsas.",
+    "enunciación": "¿Para que soplas?",
     "respuestas": [
       {
-        "texto": "Pantalón",
-        "valor": 34
-      },
-      {
-        "texto": "Chamarra",
-        "valor": 25
-      },
-      {
-        "texto": "Camisa",
-        "valor": 20
-      },
-      {
-        "texto": "Saco",
-        "valor": 12
-      },
-      {
-        "texto": "Vestido",
-        "valor": 9
-      }
-    ]
-  },
-  {
-    "enunciación": "Mueble que encuentras en una recámara.",
-    "respuestas": [
-      {
-        "texto": "Cama",
-        "valor": 37
-      },
-      {
-        "texto": "Buró",
-        "valor": 29
-      },
-      {
-        "texto": "Clóset",
-        "valor": 17
-      },
-      {
-        "texto": "Tocador",
-        "valor": 12
-      },
-      {
-        "texto": "Cajonera",
-        "valor": 5
-      }
-    ]
-  },
-  {
-    "enunciación": "Remedio para desinflamar un golpe en la cara.",
-    "respuestas": [
-      {
-        "texto": "Hielo",
-        "valor": 35
-      },
-      {
-        "texto": "Bistec",
-        "valor": 30
-      },
-      {
-        "texto": "Árnica",
-        "valor": 17
-      },
-      {
-        "texto": "Pomada",
-        "valor": 10
-      },
-      {
-        "texto": "Sábila",
-        "valor": 8
-      }
-    ]
-  },
-  {
-    "enunciación": "Además del cine, lugar con baño público.",
-    "respuestas": [
-      {
-        "texto": "Centro Comercial",
-        "valor": 30
-      },
-      {
-        "texto": "Restaurante",
-        "valor": 24
-      },
-      {
-        "texto": "Teatro",
-        "valor": 20
-      },
-      {
-        "texto": "Gasolinera",
-        "valor": 16
-      },
-      {
-        "texto": "Cafetería",
-        "valor": 10
-      }
-    ]
-  },
-  {
-    "enunciación": "Estado de la República Mexicana que empieza con C.",
-    "respuestas": [
-      {
-        "texto": "Chihuahua",
-        "valor": 40
-      },
-      {
-        "texto": "Coahuila",
-        "valor": 25
-      },
-      {
-        "texto": "Colima",
-        "valor": 16
-      },
-      {
-        "texto": "Campeche",
-        "valor": 11
-      },
-      {
-        "texto": "Chiapas",
-        "valor": 8
-      }
-    ]
-  },
-  {
-    "enunciación": "Padrinos que hay en una fiesta de 15 años.",
-    "respuestas": [
-      {
-        "texto": "Pastel",
-        "valor": 28
-      },
-      {
-        "texto": "Vestido",
-        "valor": 26
-      },
-      {
-        "texto": "Brindis/Copas",
-        "valor": 20
-      },
-      {
-        "texto": "Último Juguete",
-        "valor": 18
-      },
-      {
-        "texto": "Sonido/Música",
-        "valor": 8
-      }
-    ]
-  },
-  {
-    "enunciación": "Menciona un lugar turístico de Chiapas.",
-    "respuestas": [
-      {
-        "texto": "Cañon del Sumidero",
-        "valor": 28
-      },
-      {
-        "texto": "San Cristobal de las Casas",
-        "valor": 26
-      },
-      {
-        "texto": "Palenque",
-        "valor": 21
-      },
-      {
-        "texto": "Tuxtla Gutiérrez",
-        "valor": 16
-      },
-      {
-        "texto": "Laguna de Montebello",
-        "valor": 9
-      }
-    ]
-  },
-  {
-    "enunciación": "Además de las orejas, ¿qué otra parte del cuerpo de puedes perforar?",
-    "respuestas": [
-      {
-        "texto": "Nariz",
-        "valor": 29
-      },
-      {
-        "texto": "Ombligo",
-        "valor": 25
-      },
-      {
-        "texto": "Lengua",
-        "valor": 19
-      },
-      {
-        "texto": "Labio",
-        "valor": 15
-      },
-      {
-        "texto": "Ceja",
-        "valor": 12
-      }
-    ]
-  },
-  {
-    "enunciación": "Fruta de color amarillo.",
-    "respuestas": [
-      {
-        "texto": "Mango",
+        "texto": "Apagar Velas",
         "valor": 36
       },
       {
-        "texto": "Plátano",
-        "valor": 26
+        "texto": "Enfriar Algo",
+        "valor": 22
       },
       {
-        "texto": "Piña",
-        "valor": 17
+        "texto": "Inflar",
+        "valor": 16
       },
       {
-        "texto": "Guayaba",
+        "texto": "Chiflar",
         "valor": 14
       },
       {
-        "texto": "Durazno",
+        "texto": "Secar",
+        "valor": 12
+      }
+    ]
+  },
+  {
+    "enunciación": "Ultima actividad que haces antes de dormir.",
+    "respuestas": [
+      {
+        "texto": "Cepillarme los dientes",
+        "valor": 37
+      },
+      {
+        "texto": "Ir al baño",
+        "valor": 29
+      },
+      {
+        "texto": "Revisar el celular",
+        "valor": 15
+      },
+      {
+        "texto": "Cenar",
+        "valor": 11
+      },
+      {
+        "texto": "Rezar",
+        "valor": 8
+      }
+    ]
+  },
+  {
+    "enunciación": "¿Qué llevan los chilaquiles",
+    "respuestas": [
+      {
+        "texto": "Totopos",
+        "valor": 38
+      },
+      {
+        "texto": "Salsa",
+        "valor": 22
+      },
+      {
+        "texto": "Crema",
+        "valor": 18
+      },
+      {
+        "texto": "Queso",
+        "valor": 13
+      },
+      {
+        "texto": "Cebolla",
+        "valor": 9
+      }
+    ]
+  },
+  {
+    "enunciación": "Padrinos que participan en una boda religiosa.",
+    "respuestas": [
+      {
+        "texto": "Anillo",
+        "valor": 45
+      },
+      {
+        "texto": "Lazo",
+        "valor": 22
+      },
+      {
+        "texto": "Velación",
+        "valor": 17
+      },
+      {
+        "texto": "Arras",
+        "valor": 10
+      },
+      {
+        "texto": "Cojín",
+        "valor": 6
+      }
+    ]
+  },
+  {
+    "enunciación": "¿Qué hacen los hombres en el baño que a las mujeres les enoja?",
+    "respuestas": [
+      {
+        "texto": "Salpicar la taza",
+        "valor": 30
+      },
+      {
+        "texto": "Estar en el celular",
+        "valor": 28
+      },
+      {
+        "texto": "Que se tarde al bañar",
+        "valor": 18
+      },
+      {
+        "texto": "Dejar la tapa levantada",
+        "valor": 17
+      },
+      {
+        "texto": "Dejar pelos en el lavabo",
         "valor": 7
       }
     ]
   },
   {
-    "enunciación": "Menciona un país en el que su idioma sea el inglés.",
+    "enunciación": "Cantante famosa que inicio su carrera desde niña.",
     "respuestas": [
       {
-        "texto": "Estados Unidos",
+        "texto": "Lucero",
+        "valor": 35
+      },
+      {
+        "texto": "Thalía",
+        "valor": 27
+      },
+      {
+        "texto": "Paulina Rubio",
+        "valor": 16
+      },
+      {
+        "texto": "Belinda",
+        "valor": 13
+      },
+      {
+        "texto": "Anahí",
+        "valor": 9
+      }
+    ]
+  },
+  {
+    "enunciación": "Cualidad que encuentras en un perro, que puede tener una persona.",
+    "respuestas": [
+      {
+        "texto": "Fiel",
+        "valor": 38
+      },
+      {
+        "texto": "Lealtad",
+        "valor": 33
+      },
+      {
+        "texto": "Compañía",
+        "valor": 15
+      },
+      {
+        "texto": "Amistoso",
+        "valor": 8
+      },
+      {
+        "texto": "Cariñoso",
+        "valor": 6
+      }
+    ]
+  },
+  {
+    "enunciación": "País en el que se habla portugués.",
+    "respuestas": [
+      {
+        "texto": "Brasil",
         "valor": 29
       },
       {
-        "texto": "Inglaterra",
-        "valor": 22
+        "texto": "Portugal",
+        "valor": 25
       },
       {
-        "texto": "Canada",
+        "texto": "Angola",
         "valor": 19
       },
       {
-        "texto": "Puerto Rico",
+        "texto": "Mozambique",
+        "valor": 15
+      },
+      {
+        "texto": "Guinea",
+        "valor": 12
+      }
+    ]
+  },
+  {
+    "enunciación": "Personaje más popular de Blanca Nieves.",
+    "respuestas": [
+      {
+        "texto": "Tontín",
+        "valor": 36
+      },
+      {
+        "texto": "Enanos",
+        "valor": 25
+      },
+      {
+        "texto": "Blanca Nieves",
+        "valor": 19
+      },
+      {
+        "texto": "Gruñon",
+        "valor": 12
+      },
+      {
+        "texto": "Bruja",
+        "valor": 8
+      }
+    ]
+  },
+  {
+    "enunciación": "Profesión en la que utilizas un micrófono.",
+    "respuestas": [
+      {
+        "texto": "Cantante",
+        "valor": 30
+      },
+      {
+        "texto": "Locutor",
+        "valor": 27
+      },
+      {
+        "texto": "Comentarista",
+        "valor": 20
+      },
+      {
+        "texto": "Empleada de súper",
+        "valor": 15
+      },
+      {
+        "texto": "Actor de Doblaje",
+        "valor": 8
+      }
+    ]
+  },
+  {
+    "enunciación": "Bebida que toma la gente por las mañanas",
+    "respuestas": [
+      {
+        "texto": "Café",
+        "valor": 34
+      },
+      {
+        "texto": "Leche",
+        "valor": 26
+      },
+      {
+        "texto": "Jugo",
+        "valor": 19
+      },
+      {
+        "texto": "Agua",
+        "valor": 12
+      },
+      {
+        "texto": "Licuado",
+        "valor": 9
+      }
+    ]
+  },
+  {
+    "enunciación": "Día de la semana que cuesta más trabajo levantarse.",
+    "respuestas": [
+      {
+        "texto": "Lunes",
+        "valor": 44
+      },
+      {
+        "texto": "Domingo",
+        "valor": 27
+      },
+      {
+        "texto": "Sábado",
+        "valor": 14
+      },
+      {
+        "texto": "Martes",
+        "valor": 9
+      },
+      {
+        "texto": "Jueves",
+        "valor": 6
+      }
+    ]
+  },
+  {
+    "enunciación": "Platillo típico de la cena navideña.",
+    "respuestas": [
+      {
+        "texto": "Pavo",
+        "valor": 28
+      },
+      {
+        "texto": "Romeritos",
+        "valor": 23
+      },
+      {
+        "texto": "Bacalao",
+        "valor": 19
+      },
+      {
+        "texto": "Pierna",
         "valor": 17
       },
       {
-        "texto": "Jamaica",
+        "texto": "Lomo",
         "valor": 13
       }
     ]
   },
   {
-    "enunciación": "Sabor que puede tener un chicle",
+    "enunciación": "¿De qué color puede ser el oro?",
     "respuestas": [
       {
-        "texto": "Menta",
-        "valor": 33
+        "texto": "Amarillo/Dorado",
+        "valor": 30
       },
       {
-        "texto": "Yerbabuena",
+        "texto": "Blanco/Plateado",
         "valor": 27
       },
       {
-        "texto": "Frutal",
+        "texto": "Rosa",
         "valor": 21
       },
       {
-        "texto": "Canela",
-        "valor": 14
+        "texto": "Rojo",
+        "valor": 17
       },
       {
-        "texto": "Sandía",
+        "texto": "Azul",
         "valor": 5
       }
     ]
   },
   {
-    "enunciación": "¿Qué conservas como recuerdo de un bebé?",
+    "enunciación": "Oficio en el que se usa casco.",
     "respuestas": [
       {
-        "texto": "Zapatito",
-        "valor": 38
+        "texto": "Obrero",
+        "valor": 29
       },
       {
-        "texto": "Cabello",
-        "valor": 20
+        "texto": "Albañil",
+        "valor": 28
       },
       {
-        "texto": "Ropa",
-        "valor": 16
+        "texto": "Bombero",
+        "valor": 19
       },
       {
-        "texto": "Diente",
-        "valor": 14
+        "texto": "Electricista",
+        "valor": 15
       },
       {
-        "texto": "Fotos",
-        "valor": 12
+        "texto": "Minero",
+        "valor": 9
       }
     ]
   },
   {
-    "enunciación": "Lugares más populares que los turistas visitan en la Ciudad de México.",
+    "enunciación": "Aceite que sirve para cocinar alimentos",
     "respuestas": [
       {
-        "texto": "Zócalo",
-        "valor": 34
+        "texto": "Aceite de Oliva",
+        "valor": 29
       },
       {
-        "texto": "La Villa",
-        "valor": 28
+        "texto": "Aceite de Maíz",
+        "valor": 27
       },
       {
-        "texto": "Bellas Artes",
+        "texto": "Aceite de Girasol",
         "valor": 19
       },
       {
-        "texto": "Xochimilco",
+        "texto": "Aceite de Coco",
+        "valor": 17
+      },
+      {
+        "texto": "Aceite de Soya",
+        "valor": 8
+      }
+    ]
+  },
+  {
+    "enunciación": "Color de ropa interior que las personas usan en una noche especial",
+    "respuestas": [
+      {
+        "texto": "Rojo/Vino",
+        "valor": 34
+      },
+      {
+        "texto": "Negro",
+        "valor": 29
+      },
+      {
+        "texto": "Blanco",
+        "valor": 19
+      },
+      {
+        "texto": "Azul",
         "valor": 12
       },
       {
-        "texto": "Chapultepec",
+        "texto": "Rosa",
+        "valor": 6
+      }
+    ]
+  },
+  {
+    "enunciación": "¿Con quién es más común que te tomes una selfie?",
+    "respuestas": [
+      {
+        "texto": "Amigos",
+        "valor": 31
+      },
+      {
+        "texto": "Hijos",
+        "valor": 28
+      },
+      {
+        "texto": "Novio(a)",
+        "valor": 21
+      },
+      {
+        "texto": "Esposo(a)",
+        "valor": 15
+      },
+      {
+        "texto": "Algún Famoso",
+        "valor": 5
+      }
+    ]
+  },
+  {
+    "enunciación": "¿Qué necesita una novia para casarse?",
+    "respuestas": [
+      {
+        "texto": "Vestido",
+        "valor": 39
+      },
+      {
+        "texto": "Novio",
+        "valor": 26
+      },
+      {
+        "texto": "Anillo",
+        "valor": 18
+      },
+      {
+        "texto": "Dinero",
+        "valor": 9
+      },
+      {
+        "texto": "Amor/Estar Enamorada(o)",
+        "valor": 8
+      }
+    ]
+  },
+  {
+    "enunciación": "¿Qué haces en el auto cuando hay tráfico?",
+    "respuestas": [
+      {
+        "texto": "Escuchar música/Radio",
+        "valor": 31
+      },
+      {
+        "texto": "Ver celular/Hablar por teléfono",
+        "valor": 24
+      },
+      {
+        "texto": "Esperar",
+        "valor": 17
+      },
+      {
+        "texto": "Cantar",
+        "valor": 15
+      },
+      {
+        "texto": "Maquillarse",
+        "valor": 13
+      }
+    ]
+  },
+  {
+    "enunciación": "Clásico de Fútbol más popular",
+    "respuestas": [
+      {
+        "texto": "América vs Chivas",
+        "valor": 36
+      },
+      {
+        "texto": "Cruz Ázul vs América",
+        "valor": 30
+      },
+      {
+        "texto": "Rayados vs Tigres",
+        "valor": 17
+      },
+      {
+        "texto": "Pumas vs América",
+        "valor": 9
+      },
+      {
+        "texto": "Chivas vs Pumas",
+        "valor": 8
+      }
+    ]
+  },
+  {
+    "enunciación": "Algo de adquieres a manera de inversión",
+    "respuestas": [
+      {
+        "texto": "Casa",
+        "valor": 38
+      },
+      {
+        "texto": "Terreno",
+        "valor": 25
+      },
+      {
+        "texto": "Automóvil",
+        "valor": 16
+      },
+      {
+        "texto": "Joyas",
+        "valor": 13
+      },
+      {
+        "texto": "Departamento",
+        "valor": 13
+      }
+    ]
+  },
+  {
+    "enunciación": "Letras que se usan para talla de una prenda",
+    "respuestas": [
+      {
+        "texto": "G/L",
+        "valor": 31
+      },
+      {
+        "texto": "M/M",
+        "valor": 26
+      },
+      {
+        "texto": "CH/S",
+        "valor": 21
+      },
+      {
+        "texto": "EG/XL",
+        "valor": 15
+      },
+      {
+        "texto": "XCH/XS",
         "valor": 7
       }
     ]
   },
   {
-    "enunciación": "¿Qué haces para que se vea limpio un piso?",
+    "enunciación": "¿Con qué acompañas un café?",
     "respuestas": [
       {
-        "texto": "Barrer",
-        "valor": 29
+        "texto": "Pan Dulce",
+        "valor": 38
       },
       {
-        "texto": "Trapear",
+        "texto": "Galletas",
         "valor": 27
       },
       {
-        "texto": "Pulir",
-        "valor": 20
-      },
-      {
-        "texto": "Lavar",
+        "texto": "Pastel",
         "valor": 15
       },
       {
-        "texto": "Encerar",
-        "valor": 9
-      }
-    ]
-  },
-  {
-    "enunciación": "Algo que pones en tu cartera",
-    "respuestas": [
-      {
-        "texto": "Dinero",
-        "valor": 31
-      },
-      {
-        "texto": "Identificaciones",
-        "valor": 29
-      },
-      {
-        "texto": "Tarjetas de Crédito",
-        "valor": 20
-      },
-      {
-        "texto": "Fotos",
+        "texto": "Azúcar",
         "valor": 11
       },
       {
-        "texto": "Estampas",
+        "texto": "Cigarro",
         "valor": 9
       }
     ]
   },
   {
-    "enunciación": "¿De qué color puede ser un vino?",
+    "enunciación": "Nombre de mujer igual al de una flor.",
     "respuestas": [
-      {
-        "texto": "Rojo",
-        "valor": 30
-      },
-      {
-        "texto": "Blanco",
-        "valor": 24
-      },
       {
         "texto": "Rosa",
-        "valor": 20
+        "valor": 32
       },
       {
-        "texto": "Verde",
-        "valor": 18
-      },
-      {
-        "texto": "Púrpura",
-        "valor": 8
-      }
-    ]
-  },
-  {
-    "enunciación": "¿Para qué pones alarmas en tu teléfono?",
-    "respuestas": [
-      {
-        "texto": "Despertador",
-        "valor": 40
-      },
-      {
-        "texto": "Recordar algo",
-        "valor": 24
-      },
-      {
-        "texto": "Tomar Medicamento",
-        "valor": 19
-      },
-      {
-        "texto": "Una Cita",
-        "valor": 14
-      },
-      {
-        "texto": "Ir a la Escuela",
-        "valor": 3
-      }
-    ]
-  },
-  {
-    "enunciación": "¿De qué material puede ser una cancha de fútbol",
-    "respuestas": [
-      {
-        "texto": "Pasto",
-        "valor": 35
-      },
-      {
-        "texto": "Tierra",
-        "valor": 25
-      },
-      {
-        "texto": "Pasto Sintético",
-        "valor": 19
-      },
-      {
-        "texto": "Cemento",
-        "valor": 12
-      },
-      {
-        "texto": "Pavimento",
-        "valor": 9
-      }
-    ]
-  },
-  {
-    "enunciación": "Alimento que produce gases.",
-    "respuestas": [
-      {
-        "texto": "Frijoles",
-        "valor": 36
-      },
-      {
-        "texto": "Brócoli",
-        "valor": 28
-      },
-      {
-        "texto": "Coliflor",
-        "valor": 16
-      },
-      {
-        "texto": "Habas",
-        "valor": 11
-      },
-      {
-        "texto": "Leche",
-        "valor": 9
-      }
-    ]
-  },
-  {
-    "enunciación": "Si llega el esposo/a a la casa ¿Dónde escondes al tercero en discordia?",
-    "respuestas": [
-      {
-        "texto": "Clóset",
-        "valor": 33
-      },
-      {
-        "texto": "Debajo de la cama",
+        "texto": "Margarita",
         "valor": 27
       },
       {
-        "texto": "Baño",
-        "valor": 22
+        "texto": "Azucena",
+        "valor": 20
       },
       {
-        "texto": "Balcón",
+        "texto": "Violeta",
+        "valor": 11
+      },
+      {
+        "texto": "Jazmín",
         "valor": 10
+      }
+    ]
+  },
+  {
+    "enunciación": "¿Qué haces en la playa?",
+    "respuestas": [
+      {
+        "texto": "Nadar/Meterme al Mar",
+        "valor": 34
       },
       {
-        "texto": "Garage",
-        "valor": 8
+        "texto": "Asolearme",
+        "valor": 26
+      },
+      {
+        "texto": "Descansar/Relajarme",
+        "valor": 19
+      },
+      {
+        "texto": "Hacer Castillos de Arena",
+        "valor": 14
+      },
+      {
+        "texto": "Beber",
+        "valor": 7
+      }
+    ]
+  },
+  {
+    "enunciación": "¿Con qué relacionas los vampiros?",
+    "respuestas": [
+      {
+        "texto": "Chupar Sangre",
+        "valor": 35
+      },
+      {
+        "texto": "Colmillos",
+        "valor": 27
+      },
+      {
+        "texto": "Ajo",
+        "valor": 16
+      },
+      {
+        "texto": "Capa/Volar",
+        "valor": 13
+      },
+      {
+        "texto": "Murciélagos",
+        "valor": 9
+      }
+    ]
+  },
+  {
+    "enunciación": "Fruta de cáscara verde.",
+    "respuestas": [
+      {
+        "texto": "Pera",
+        "valor": 28
+      },
+      {
+        "texto": "Limón",
+        "valor": 26
+      },
+      {
+        "texto": "Manzana",
+        "valor": 21
+      },
+      {
+        "texto": "Sandía",
+        "valor": 14
+      },
+      {
+        "texto": "Uva",
+        "valor": 11
       }
     ]
   }
