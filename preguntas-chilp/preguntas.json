@@ -25,6 +25,56 @@
     ]
   },
   {
+    "enunciación": "¿Qué artículo compra la señora qué canta (se compran...)?",
+    "respuestas": [
+      {
+        "texto": "Colchones",
+        "valor": 27
+      },
+      {
+        "texto": "Refrigeradores",
+        "valor": 21
+      },
+      {
+        "texto": "Estufa",
+        "valor": 19
+      },
+      {
+        "texto": "Lavadora",
+        "valor": 17
+      },
+      {
+        "texto": "Microondas",
+        "valor": 16
+      }
+    ]
+  },
+  {
+    "enunciación": "Color del pimiento morrón",
+    "respuestas": [
+      {
+        "texto": "Verde",
+        "valor": 33
+      },
+      {
+        "texto": "Rojo",
+        "valor": 29
+      },
+      {
+        "texto": "Amarillo",
+        "valor": 20
+      },
+      {
+        "texto": "Naranja",
+        "valor": 10
+      },
+      {
+        "texto": "Marrón",
+        "valor": 8
+      }
+    ]
+  },
+  {
     "enunciación": "Menciona un platillo típico poblano.",
     "respuestas": [
       {
@@ -1492,6 +1542,556 @@
       {
         "texto": "Tamales",
         "valor": 11
+      }
+    ]
+  },
+  {
+    "enunciación": "Prenda de vestir con bolsas.",
+    "respuestas": [
+      {
+        "texto": "Pantalón",
+        "valor": 34
+      },
+      {
+        "texto": "Chamarra",
+        "valor": 25
+      },
+      {
+        "texto": "Camisa",
+        "valor": 20
+      },
+      {
+        "texto": "Saco",
+        "valor": 12
+      },
+      {
+        "texto": "Vestido",
+        "valor": 9
+      }
+    ]
+  },
+  {
+    "enunciación": "Mueble que encuentras en una recámara.",
+    "respuestas": [
+      {
+        "texto": "Cama",
+        "valor": 37
+      },
+      {
+        "texto": "Buró",
+        "valor": 29
+      },
+      {
+        "texto": "Clóset",
+        "valor": 17
+      },
+      {
+        "texto": "Tocador",
+        "valor": 12
+      },
+      {
+        "texto": "Cajonera",
+        "valor": 5
+      }
+    ]
+  },
+  {
+    "enunciación": "Remedio para desinflamar un golpe en la cara.",
+    "respuestas": [
+      {
+        "texto": "Hielo",
+        "valor": 35
+      },
+      {
+        "texto": "Bistec",
+        "valor": 30
+      },
+      {
+        "texto": "Árnica",
+        "valor": 17
+      },
+      {
+        "texto": "Pomada",
+        "valor": 10
+      },
+      {
+        "texto": "Sábila",
+        "valor": 8
+      }
+    ]
+  },
+  {
+    "enunciación": "Además del cine, lugar con baño público.",
+    "respuestas": [
+      {
+        "texto": "Centro Comercial",
+        "valor": 30
+      },
+      {
+        "texto": "Restaurante",
+        "valor": 24
+      },
+      {
+        "texto": "Teatro",
+        "valor": 20
+      },
+      {
+        "texto": "Gasolinera",
+        "valor": 16
+      },
+      {
+        "texto": "Cafetería",
+        "valor": 10
+      }
+    ]
+  },
+  {
+    "enunciación": "Estado de la República Mexicana que empieza con C.",
+    "respuestas": [
+      {
+        "texto": "Chihuahua",
+        "valor": 40
+      },
+      {
+        "texto": "Coahuila",
+        "valor": 25
+      },
+      {
+        "texto": "Colima",
+        "valor": 16
+      },
+      {
+        "texto": "Campeche",
+        "valor": 11
+      },
+      {
+        "texto": "Chiapas",
+        "valor": 8
+      }
+    ]
+  },
+  {
+    "enunciación": "Padrinos que hay en una fiesta de 15 años.",
+    "respuestas": [
+      {
+        "texto": "Pastel",
+        "valor": 28
+      },
+      {
+        "texto": "Vestido",
+        "valor": 26
+      },
+      {
+        "texto": "Brindis/Copas",
+        "valor": 20
+      },
+      {
+        "texto": "Último Juguete",
+        "valor": 18
+      },
+      {
+        "texto": "Sonido/Música",
+        "valor": 8
+      }
+    ]
+  },
+  {
+    "enunciación": "Menciona un lugar turístico de Chiapas.",
+    "respuestas": [
+      {
+        "texto": "Cañon del Sumidero",
+        "valor": 28
+      },
+      {
+        "texto": "San Cristobal de las Casas",
+        "valor": 26
+      },
+      {
+        "texto": "Palenque",
+        "valor": 21
+      },
+      {
+        "texto": "Tuxtla Gutiérrez",
+        "valor": 16
+      },
+      {
+        "texto": "Laguna de Montebello",
+        "valor": 9
+      }
+    ]
+  },
+  {
+    "enunciación": "Además de las orejas, ¿qué otra parte del cuerpo de puedes perforar?",
+    "respuestas": [
+      {
+        "texto": "Nariz",
+        "valor": 29
+      },
+      {
+        "texto": "Ombligo",
+        "valor": 25
+      },
+      {
+        "texto": "Lengua",
+        "valor": 19
+      },
+      {
+        "texto": "Labio",
+        "valor": 15
+      },
+      {
+        "texto": "Ceja",
+        "valor": 12
+      }
+    ]
+  },
+  {
+    "enunciación": "Fruta de color amarillo.",
+    "respuestas": [
+      {
+        "texto": "Mango",
+        "valor": 36
+      },
+      {
+        "texto": "Plátano",
+        "valor": 26
+      },
+      {
+        "texto": "Piña",
+        "valor": 17
+      },
+      {
+        "texto": "Guayaba",
+        "valor": 14
+      },
+      {
+        "texto": "Durazno",
+        "valor": 7
+      }
+    ]
+  },
+  {
+    "enunciación": "Menciona un país en el que su idioma sea el inglés.",
+    "respuestas": [
+      {
+        "texto": "Estados Unidos",
+        "valor": 29
+      },
+      {
+        "texto": "Inglaterra",
+        "valor": 22
+      },
+      {
+        "texto": "Canada",
+        "valor": 19
+      },
+      {
+        "texto": "Puerto Rico",
+        "valor": 17
+      },
+      {
+        "texto": "Jamaica",
+        "valor": 13
+      }
+    ]
+  },
+  {
+    "enunciación": "Sabor que puede tener un chicle",
+    "respuestas": [
+      {
+        "texto": "Menta",
+        "valor": 33
+      },
+      {
+        "texto": "Yerbabuena",
+        "valor": 27
+      },
+      {
+        "texto": "Frutal",
+        "valor": 21
+      },
+      {
+        "texto": "Canela",
+        "valor": 14
+      },
+      {
+        "texto": "Sandía",
+        "valor": 5
+      }
+    ]
+  },
+  {
+    "enunciación": "¿Qué conservas como recuerdo de un bebé?",
+    "respuestas": [
+      {
+        "texto": "Zapatito",
+        "valor": 38
+      },
+      {
+        "texto": "Cabello",
+        "valor": 20
+      },
+      {
+        "texto": "Ropa",
+        "valor": 16
+      },
+      {
+        "texto": "Diente",
+        "valor": 14
+      },
+      {
+        "texto": "Fotos",
+        "valor": 12
+      }
+    ]
+  },
+  {
+    "enunciación": "Lugares más populares que los turistas visitan en la Ciudad de México.",
+    "respuestas": [
+      {
+        "texto": "Zócalo",
+        "valor": 34
+      },
+      {
+        "texto": "La Villa",
+        "valor": 28
+      },
+      {
+        "texto": "Bellas Artes",
+        "valor": 19
+      },
+      {
+        "texto": "Xochimilco",
+        "valor": 12
+      },
+      {
+        "texto": "Chapultepec",
+        "valor": 7
+      }
+    ]
+  },
+  {
+    "enunciación": "¿Qué haces para que se vea limpio un piso?",
+    "respuestas": [
+      {
+        "texto": "Barrer",
+        "valor": 29
+      },
+      {
+        "texto": "Trapear",
+        "valor": 27
+      },
+      {
+        "texto": "Pulir",
+        "valor": 20
+      },
+      {
+        "texto": "Lavar",
+        "valor": 15
+      },
+      {
+        "texto": "Encerar",
+        "valor": 9
+      }
+    ]
+  },
+  {
+    "enunciación": "Algo que pones en tu cartera",
+    "respuestas": [
+      {
+        "texto": "Dinero",
+        "valor": 31
+      },
+      {
+        "texto": "Identificaciones",
+        "valor": 29
+      },
+      {
+        "texto": "Tarjetas de Crédito",
+        "valor": 20
+      },
+      {
+        "texto": "Fotos",
+        "valor": 11
+      },
+      {
+        "texto": "Estampas",
+        "valor": 9
+      }
+    ]
+  },
+  {
+    "enunciación": "¿De qué color puede ser un vino?",
+    "respuestas": [
+      {
+        "texto": "Rojo",
+        "valor": 30
+      },
+      {
+        "texto": "Blanco",
+        "valor": 24
+      },
+      {
+        "texto": "Rosa",
+        "valor": 20
+      },
+      {
+        "texto": "Verde",
+        "valor": 18
+      },
+      {
+        "texto": "Púrpura",
+        "valor": 8
+      }
+    ]
+  },
+  {
+    "enunciación": "¿Para qué pones alarmas en tu teléfono?",
+    "respuestas": [
+      {
+        "texto": "Despertador",
+        "valor": 40
+      },
+      {
+        "texto": "Recordar algo",
+        "valor": 24
+      },
+      {
+        "texto": "Tomar Medicamento",
+        "valor": 19
+      },
+      {
+        "texto": "Una Cita",
+        "valor": 14
+      },
+      {
+        "texto": "Ir a la Escuela",
+        "valor": 3
+      }
+    ]
+  },
+  {
+    "enunciación": "¿De qué material puede ser una cancha de fútbol",
+    "respuestas": [
+      {
+        "texto": "Pasto",
+        "valor": 35
+      },
+      {
+        "texto": "Tierra",
+        "valor": 25
+      },
+      {
+        "texto": "Pasto Sintético",
+        "valor": 19
+      },
+      {
+        "texto": "Cemento",
+        "valor": 12
+      },
+      {
+        "texto": "Pavimento",
+        "valor": 9
+      }
+    ]
+  },
+  {
+    "enunciación": "Alimento que produce gases.",
+    "respuestas": [
+      {
+        "texto": "Frijoles",
+        "valor": 36
+      },
+      {
+        "texto": "Brócoli",
+        "valor": 28
+      },
+      {
+        "texto": "Coliflor",
+        "valor": 16
+      },
+      {
+        "texto": "Habas",
+        "valor": 11
+      },
+      {
+        "texto": "Leche",
+        "valor": 9
+      }
+    ]
+  },
+  {
+    "enunciación": "Si llega el esposo/a a la casa ¿Dónde escondes al tercero en discordia?",
+    "respuestas": [
+      {
+        "texto": "Clóset",
+        "valor": 33
+      },
+      {
+        "texto": "Debajo de la cama",
+        "valor": 27
+      },
+      {
+        "texto": "Baño",
+        "valor": 22
+      },
+      {
+        "texto": "Balcón",
+        "valor": 10
+      },
+      {
+        "texto": "Garage",
+        "valor": 8
+      }
+    ]
+  },
+  {
+    "enunciación": "Cosas que lleva una mujer en la bolsa.",
+    "respuestas": [
+      {
+        "texto": "Cosméticos",
+        "valor": 32
+      },
+      {
+        "texto": "Espejo",
+        "valor": 28
+      },
+      {
+        "texto": "Cartera",
+        "valor": 19
+      },
+      {
+        "texto": "Llaves",
+        "valor": 14
+      },
+      {
+        "texto": "Celular",
+        "valor": 9
+      }
+    ]
+  },
+  {
+    "enunciación": "Animal de color blanco y negro.",
+    "respuestas": [
+      {
+        "texto": "Oso Panda",
+        "valor": 28
+      },
+      {
+        "texto": "Cebra",
+        "valor": 24
+      },
+      {
+        "texto": "Vaca",
+        "valor": 20
+      },
+      {
+        "texto": "Gato",
+        "valor": 15
+      },
+      {
+        "texto": "Zorrillo",
+        "valor": 13
       }
     ]
   },
