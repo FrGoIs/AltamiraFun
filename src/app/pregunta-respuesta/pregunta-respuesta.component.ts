@@ -4,7 +4,7 @@ import { resolveResource, appDataDir } from '@tauri-apps/api/path'
 // alternatively, use `window.__TAURI__.path.resolveResource`
 import { readTextFile } from '@tauri-apps/api/fs'
 
-// alternatively, use `window.__TAURI__.fs.readTextFile`
+const QUESTIONS_PATH = 'preguntas-chilp/preguntas.json';
 @Component({
     selector: 'app-pregunta-respuesta', templateUrl: './pregunta-respuesta.component.html', styleUrls: ['./pregunta-respuesta.component.css']
 })
@@ -14,11 +14,16 @@ export class PreguntaRespuestaComponent implements OnInit {
     // @ts-ignore
     public selectedQuestion: Pregunta;
 
+    public puntaje = {
+        equipo1: 0,
+        equipo2: 0
+    }
+
     constructor() {
     }
 
     ngOnInit(): void {
-        this.getQuestionsFromFile('preguntas-chilp/preguntas.json')
+        this.getQuestionsFromFile(QUESTIONS_PATH)
     }
 
     async getQuestionsFromFile(path:string){
@@ -32,6 +37,14 @@ export class PreguntaRespuestaComponent implements OnInit {
         console.log("here", removeIndex, this.preguntas.length)
         // @ts-ignore
         this.selectedQuestion = this.preguntas.splice(removeIndex,1).pop();
+        console.log("selectedQuestion", this.selectedQuestion)
+    }
+
+    public resetGame(){
+        // @ts-ignore
+        this.selectedQuestion = undefined;
+        this.getQuestionsFromFile(QUESTIONS_PATH)
+
     }
 
 }
