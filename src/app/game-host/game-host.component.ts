@@ -1,14 +1,14 @@
 import { Component, OnInit } from '@angular/core';
 import { Pregunta } from '../models/interfaces';
-import { resolveResource, appDataDir } from '@tauri-apps/api/path'
+import { resolveResource } from '@tauri-apps/api/path'
 // alternatively, use `window.__TAURI__.path.resolveResource`
 import { readTextFile } from '@tauri-apps/api/fs'
 
 const QUESTIONS_PATH = 'preguntas-chilp/preguntas.json';
 @Component({
-    selector: 'app-pregunta-respuesta', templateUrl: './pregunta-respuesta.component.html', styleUrls: ['./pregunta-respuesta.component.css']
+    selector: 'app-game-host', templateUrl: './game-host.component.html', styleUrls: ['./game-host.component.css']
 })
-export class PreguntaRespuestaComponent implements OnInit {
+export class GameHostComponent implements OnInit {
 
     private preguntas: Pregunta[] = [];
     // @ts-ignore
@@ -44,7 +44,6 @@ export class PreguntaRespuestaComponent implements OnInit {
         // @ts-ignore
         this.selectedQuestion = undefined;
         this.getQuestionsFromFile(QUESTIONS_PATH)
-
     }
 
 }

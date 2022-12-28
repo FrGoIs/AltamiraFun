@@ -6,9 +6,7 @@
         {{selectedQuestion.enunciacion}}
         <div class="contenedor-respuestas">
             <div class="respuesta" *ngFor="let respuesta of selectedQuestion.respuestas">
-                <p>
-                    {{respuesta.texto}}
-                </p>
+                <app-answer [respuesta]="respuesta"></app-answer>
             </div>
         </div>
     </div>

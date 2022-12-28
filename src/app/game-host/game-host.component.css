@@ -15,6 +15,9 @@
     background-color: white;
     padding: 20px;
     text-align: center;
+    max-height: 50px;
+    max-width: 60px;
+    margin: auto 10px;
 }
 .respuesta{
     background-color: #646cff;

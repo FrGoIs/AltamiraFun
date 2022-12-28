@@ -1,12 +1,12 @@
 import { Component } from "@angular/core";
 import { invoke } from "@tauri-apps/api/tauri";
-import { PreguntaRespuestaModule } from './pregunta-respuesta/pregunta-respuesta.module';
+import { GameHostModule } from './game-host/game-host.module';
 
 @Component({
   selector: "app-root",
   template: `
     <h1>100 Mexicanos Dijeron</h1>
-    <app-pregunta-respuesta></app-pregunta-respuesta>
+    <app-game-host></app-game-host>
 
   `,
   styles: [
@@ -22,7 +22,7 @@ import { PreguntaRespuestaModule } from './pregunta-respuesta/pregunta-respuesta
   ],
   standalone: true,
   imports: [
-    PreguntaRespuestaModule
+    GameHostModule
   ]
 })
 export class AppComponent {
