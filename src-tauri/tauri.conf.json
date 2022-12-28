@@ -7,8 +7,8 @@
     "withGlobalTauri": false
   },
   "package": {
-    "productName": "rancho_mexicanos_dijeron",
-    "version": "0.0.0"
+    "productName": "100_Mexicanos_Dijeron",
+    "version": "1.0.0"
   },
   "tauri": {
     "allowlist": {
@@ -16,6 +16,22 @@
       "shell": {
         "all": false,
         "open": true
+      },
+      "path": {
+        "all": true
+      },
+      "fs": {
+        "all": true,
+        "readFile": true,
+        "writeFile": true,
+        "readDir": true,
+        "copyFile": true,
+        "createDir": true,
+        "removeDir": true,
+        "removeFile": true,
+        "renameFile": true,
+        "exists": true,
+        "scope": ["$RESOURCE/preguntas-chilp/*"]
       }
     },
     "bundle": {
@@ -25,6 +41,7 @@
       "deb": {
         "depends": []
       },
+      "resources": ["preguntas-chilp/*"],
       "externalBin": [],
       "icon": [
         "icons/32x32.png",
@@ -42,7 +59,6 @@
         "providerShortName": null,
         "signingIdentity": null
       },
-      "resources": [],
       "shortDescription": "",
       "targets": "all",
       "windows": {
@@ -60,10 +76,10 @@
     "windows": [
       {
         "fullscreen": false,
-        "height": 600,
+        "height": 1080,
+        "width": 1920,
         "resizable": true,
-        "title": "rancho_mexicanos_dijeron",
-        "width": 800
+        "title": "rancho_mexicanos_dijeron"
       }
     ]
   }
