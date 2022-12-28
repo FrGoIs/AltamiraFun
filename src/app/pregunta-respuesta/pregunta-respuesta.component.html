@@ -1,12 +1,14 @@
 <div class="dashboard">
-    <div class="pregunta" *ngFor="let pregunta of preguntas">
-        {{pregunta.enunciacion}}
+    <div class="pregunta">
+        {{selectedQuestion.enunciacion}}
         <div class="contenedor-respuestas">
-            <div class="respuesta" *ngFor="let respuesta of pregunta.respuestas">
+            <div class="respuesta" *ngFor="let respuesta of selectedQuestion.respuestas">
                 <p>
                     {{respuesta.texto}}
                 </p>
             </div>
         </div>
     </div>
+
+    <button (click)="getNextQuestion()"> Next Question</button>
 </div>

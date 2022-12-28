@@ -10,7 +10,9 @@ import { readTextFile } from '@tauri-apps/api/fs'
 })
 export class PreguntaRespuestaComponent implements OnInit {
 
-    public preguntas: Pregunta[] = [];
+    private preguntas: Pregunta[] = [];
+    // @ts-ignore
+    public selectedQuestion: Pregunta;
 
     constructor() {
     }
@@ -20,12 +22,16 @@ export class PreguntaRespuestaComponent implements OnInit {
     }
 
     async getQuestionsFromFile(path:string){
-        const dataDir = await appDataDir();
-        console.log(dataDir, 'dataDir')
         const resourcePath = await resolveResource(path)
         const file = await readTextFile(resourcePath);
         this.preguntas = JSON.parse(file)
         return true;
+    }
+    public getNextQuestion(){
+        const removeIndex = Math.floor(Math.random() * this.preguntas.length)
+        console.log("here", removeIndex, this.preguntas.length)
+        // @ts-ignore
+        this.selectedQuestion = this.preguntas.splice(removeIndex,1).pop();
     }
 
 }
