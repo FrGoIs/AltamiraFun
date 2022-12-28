@@ -5,7 +5,7 @@ import { PreguntaRespuestaModule } from './pregunta-respuesta/pregunta-respuesta
 @Component({
   selector: "app-root",
   template: `
-    <h1>100 Mexicanos Dijeron (version Altamira)</h1>
+    <h1>100 Mexicanos Dijeron</h1>
     <app-pregunta-respuesta></app-pregunta-respuesta>
 
   `,
