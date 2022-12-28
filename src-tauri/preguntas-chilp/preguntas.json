@@ -1,6 +1,6 @@
 [
   {
-    "enunciación": "¿Qué aprendes de memoria en la primaria?",
+    "enunciacion": "¿Qué aprendes de memoria en la primaria?",
     "respuestas": [
       {
         "texto": "Tablas de multiplicar",
@@ -25,7 +25,7 @@
     ]
   },
   {
-    "enunciación": "Propósito de Año Nuevo más popular",
+    "enunciacion": "Propósito de Año Nuevo más popular",
     "respuestas": [
       {
         "texto": "Bajar de peso",
@@ -50,7 +50,7 @@
     ]
   },
   {
-    "enunciación": "¿Qué artículo compra la señora qué canta (se compran...)?",
+    "enunciacion": "¿Qué artículo compra la señora qué canta (se compran...)?",
     "respuestas": [
       {
         "texto": "Colchones",
@@ -75,7 +75,7 @@
     ]
   },
   {
-    "enunciación": "Color del pimiento morrón",
+    "enunciacion": "Color del pimiento morrón",
     "respuestas": [
       {
         "texto": "Verde",
@@ -100,7 +100,7 @@
     ]
   },
   {
-    "enunciación": "Menciona un platillo típico poblano.",
+    "enunciacion": "Menciona un platillo típico poblano.",
     "respuestas": [
       {
         "texto": "Mole",
@@ -121,7 +121,7 @@
     ]
   },
   {
-    "enunciación": "Animal que puedes encontrar en un árbol.",
+    "enunciacion": "Animal que puedes encontrar en un árbol.",
     "respuestas": [
       {
         "texto": "Ardilla",
@@ -146,7 +146,7 @@
     ]
   },
   {
-    "enunciación": "¿Que te pones para andar en moto?.",
+    "enunciacion": "¿Que te pones para andar en moto?.",
     "respuestas": [
       {
         "texto": "Casco",
@@ -171,7 +171,7 @@
     ]
   },
   {
-    "enunciación": "Accesorio que le compras a un perro.",
+    "enunciacion": "Accesorio que le compras a un perro.",
     "respuestas": [
       {
         "texto": "Collar",
@@ -196,7 +196,7 @@
     ]
   },
   {
-    "enunciación": "En un cuento de hadas, ¿qué no puede faltar?",
+    "enunciacion": "En un cuento de hadas, ¿qué no puede faltar?",
     "respuestas": [
       {
         "texto": "Princesa",
@@ -221,7 +221,7 @@
     ]
   },
   {
-    "enunciación": "Menciona que comida no puede faltar en una fiesta infantil.",
+    "enunciacion": "Menciona que comida no puede faltar en una fiesta infantil.",
     "respuestas": [
       {
         "texto": "Pastel",
@@ -246,7 +246,7 @@
     ]
   },
   {
-    "enunciación": "¿Qué es lo primero que una mujer ve físicamente en un hombre?",
+    "enunciacion": "¿Qué es lo primero que una mujer ve físicamente en un hombre?",
     "respuestas": [
       {
         "texto": "Ojos",
@@ -271,7 +271,7 @@
     ]
   },
   {
-    "enunciación": "Sabor que puede tener un jarabe para la tos.",
+    "enunciacion": "Sabor que puede tener un jarabe para la tos.",
     "respuestas": [
       {
         "texto": "Cereza",
@@ -296,7 +296,7 @@
     ]
   },
   {
-    "enunciación": "Mneciona una pieza de un juego geométrico.",
+    "enunciacion": "Mneciona una pieza de un juego geométrico.",
     "respuestas": [
       {
         "texto": "Escuadra",
@@ -321,7 +321,7 @@
     ]
   },
   {
-    "enunciación": "Animal doméstico que tienes en una jaula",
+    "enunciacion": "Animal doméstico que tienes en una jaula",
     "respuestas": [
       {
         "texto": "Pájaro",
@@ -346,7 +346,7 @@
     ]
   },
   {
-    "enunciación": "Ingredientes del que puede estar rellena una galleta",
+    "enunciacion": "Ingredientes del que puede estar rellena una galleta",
     "respuestas": [
       {
         "texto": "Chocolate",
@@ -371,7 +371,7 @@
     ]
   },
   {
-    "enunciación": "Sintoma que te quitas al tomarte un antigripal.",
+    "enunciacion": "Sintoma que te quitas al tomarte un antigripal.",
     "respuestas": [
       {
         "texto": "Dolor de Cabeza",
@@ -396,7 +396,7 @@
     ]
   },
   {
-    "enunciación": "Algo que la gente hace cuando va a un concierto.",
+    "enunciacion": "Algo que la gente hace cuando va a un concierto.",
     "respuestas": [
       {
         "texto": "Cantar",
@@ -421,7 +421,7 @@
     ]
   },
   {
-    "enunciación": "Alimento que compras enlatado.",
+    "enunciacion": "Alimento que compras enlatado.",
     "respuestas": [
       {
         "texto": "Atún",
@@ -446,7 +446,7 @@
     ]
   },
   {
-    "enunciación": "Si el Chavo del 8 hiciera una fiesta, ¿a quién invitaría?",
+    "enunciacion": "Si el Chavo del 8 hiciera una fiesta, ¿a quién invitaría?",
     "respuestas": [
       {
         "texto": "Chilindrina",
@@ -471,7 +471,7 @@
     ]
   },
   {
-    "enunciación": "Animal más famoso del zoológico.",
+    "enunciacion": "Animal más famoso del zoológico.",
     "respuestas": [
       {
         "texto": "León",
@@ -496,7 +496,7 @@
     ]
   },
   {
-    "enunciación": "¿Qué objeto utilizas para escribir?",
+    "enunciacion": "¿Qué objeto utilizas para escribir?",
     "respuestas": [
       {
         "texto": "Pluma",
@@ -521,7 +521,7 @@
     ]
   },
   {
-    "enunciación": "Además de billetes de $200, ¿Que otra denominación hay?.",
+    "enunciacion": "Además de billetes de $200, ¿Que otra denominación hay?.",
     "respuestas": [
       {
         "texto": "Quinientos Pesos",
@@ -546,7 +546,7 @@
     ]
   },
   {
-    "enunciación": "Parte del cuerpo más común en la que te haces un tatuaje.",
+    "enunciacion": "Parte del cuerpo más común en la que te haces un tatuaje.",
     "respuestas": [
       {
         "texto": "Brazos",
@@ -571,7 +571,7 @@
     ]
   },
   {
-    "enunciación": "Además del nacimiento de un hijo ¿con qué evento te emocionas?",
+    "enunciacion": "Además del nacimiento de un hijo ¿con qué evento te emocionas?",
     "respuestas": [
       {
         "texto": "Boda",
@@ -596,7 +596,7 @@
     ]
   },
   {
-    "enunciación": "Menciona un ave con pico largo.",
+    "enunciacion": "Menciona un ave con pico largo.",
     "respuestas": [
       {
         "texto": "Tucán",
@@ -621,7 +621,7 @@
     ]
   },
   {
-    "enunciación": "Identificación oficial que lleva fotografía.",
+    "enunciacion": "Identificación oficial que lleva fotografía.",
     "respuestas": [
       {
         "texto": "Credencial de Elector (INE/IFE)",
@@ -646,7 +646,7 @@
     ]
   },
   {
-    "enunciación": "Menciona un tipo de calzón de mujer.",
+    "enunciacion": "Menciona un tipo de calzón de mujer.",
     "respuestas": [
       {
         "texto": "Tanga",
@@ -671,7 +671,7 @@
     ]
   },
   {
-    "enunciación": "Oficio que empiece con la letra C.",
+    "enunciacion": "Oficio que empiece con la letra C.",
     "respuestas": [
       {
         "texto": "Carpintero",
@@ -696,7 +696,7 @@
     ]
   },
   {
-    "enunciación": "Color del arcoíris.",
+    "enunciacion": "Color del arcoíris.",
     "respuestas": [
       {
         "texto": "Rojo",
@@ -721,7 +721,7 @@
     ]
   },
   {
-    "enunciación": "Cosas que no pueden faltar en una pañalera.",
+    "enunciacion": "Cosas que no pueden faltar en una pañalera.",
     "respuestas": [
       {
         "texto": "Pañales",
@@ -746,7 +746,7 @@
     ]
   },
   {
-    "enunciación": "Además de maciza,¿de qué puedes pedir un taco de carnitas?",
+    "enunciacion": "Además de maciza,¿de qué puedes pedir un taco de carnitas?",
     "respuestas": [
       {
         "texto": "Buche",
@@ -771,7 +771,7 @@
     ]
   },
   {
-    "enunciación": "Menciona un animal que sea mascota de un equipo de fútbol mexicano.",
+    "enunciacion": "Menciona un animal que sea mascota de un equipo de fútbol mexicano.",
     "respuestas": [
       {
         "texto": "Águila",
@@ -796,7 +796,7 @@
     ]
   },
   {
-    "enunciación": "Además de salida de emergencia, menciona otra señalización más popular.",
+    "enunciacion": "Además de salida de emergencia, menciona otra señalización más popular.",
     "respuestas": [
       {
         "texto": "Extinguidor",
@@ -821,7 +821,7 @@
     ]
   },
   {
-    "enunciación": "Menciona algo que no puede faltar en un bautizo",
+    "enunciacion": "Menciona algo que no puede faltar en un bautizo",
     "respuestas": [
       {
         "texto": "Niño",
@@ -846,7 +846,7 @@
     ]
   },
   {
-    "enunciación": "¿Para que se acompañan entre mujeres?",
+    "enunciacion": "¿Para que se acompañan entre mujeres?",
     "respuestas": [
       {
         "texto": "Para ir al baño",
@@ -871,7 +871,7 @@
     ]
   },
   {
-    "enunciación": "Regalo más común que das en una boda.",
+    "enunciacion": "Regalo más común que das en una boda.",
     "respuestas": [
       {
         "texto": "Vajilla",
@@ -896,7 +896,7 @@
     ]
   },
   {
-    "enunciación": "¿Con que flor se hacen arreglos funerarios?",
+    "enunciacion": "¿Con que flor se hacen arreglos funerarios?",
     "respuestas": [
       {
         "texto": "Rosa",
@@ -921,7 +921,7 @@
     ]
   },
   {
-    "enunciación": "Además de juegos, ¿qué hay en un parque?",
+    "enunciacion": "Además de juegos, ¿qué hay en un parque?",
     "respuestas": [
       {
         "texto": "Bancas",
@@ -946,7 +946,7 @@
     ]
   },
   {
-    "enunciación": "Deporte que se juega con un balón",
+    "enunciacion": "Deporte que se juega con un balón",
     "respuestas": [
       {
         "texto": "Fútbol",
@@ -971,7 +971,7 @@
     ]
   },
   {
-    "enunciación": "Además de novelas, ¿qué puedes ver en la televisión?",
+    "enunciacion": "Además de novelas, ¿qué puedes ver en la televisión?",
     "respuestas": [
       {
         "texto": "Caricaturas",
@@ -996,7 +996,7 @@
     ]
   },
   {
-    "enunciación": "Cosas que te venden dentro de un estadio de fútbol",
+    "enunciacion": "Cosas que te venden dentro de un estadio de fútbol",
     "respuestas": [
       {
         "texto": "Cerveza",
@@ -1021,7 +1021,7 @@
     ]
   },
   {
-    "enunciación": "Además de rimel ¿qué otro cosmético se utiliza para maquillarse?",
+    "enunciacion": "Además de rimel ¿qué otro cosmético se utiliza para maquillarse?",
     "respuestas": [
       {
         "texto": "Lapiz labial/Bilé",
@@ -1046,7 +1046,7 @@
     ]
   },
   {
-    "enunciación": "¿Qué llevas en tu maleta cuando vas a un balneario?",
+    "enunciacion": "¿Qué llevas en tu maleta cuando vas a un balneario?",
     "respuestas": [
       {
         "texto": "Traje de Baño",
@@ -1071,7 +1071,7 @@
     ]
   },
   {
-    "enunciación": "Además de chile guajillo, menciona otro chile seco",
+    "enunciacion": "Además de chile guajillo, menciona otro chile seco",
     "respuestas": [
       {
         "texto": "Chile de árbol",
@@ -1096,7 +1096,7 @@
     ]
   },
   {
-    "enunciación": "Sabor de agua más común que hay en una fonda.",
+    "enunciacion": "Sabor de agua más común que hay en una fonda.",
     "respuestas": [
       {
         "texto": "Jamaica",
@@ -1121,7 +1121,7 @@
     ]
   },
   {
-    "enunciación": "Presentación en la que puedes comprar un jabón.",
+    "enunciacion": "Presentación en la que puedes comprar un jabón.",
     "respuestas": [
       {
         "texto": "Líquido",
@@ -1146,7 +1146,7 @@
     ]
   },
   {
-    "enunciación": "Regalo más común para un baby shower.",
+    "enunciacion": "Regalo más común para un baby shower.",
     "respuestas": [
       {
         "texto": "Pañales",
@@ -1171,7 +1171,7 @@
     ]
   },
   {
-    "enunciación": "¿Qué animal se utiliza como medio de transporte?",
+    "enunciacion": "¿Qué animal se utiliza como medio de transporte?",
     "respuestas": [
       {
         "texto": "Caballo",
@@ -1196,7 +1196,7 @@
     ]
   },
   {
-    "enunciación": "Además de salchichonería, ¿qué otro departamento encuentras en un supermercado?",
+    "enunciacion": "Además de salchichonería, ¿qué otro departamento encuentras en un supermercado?",
     "respuestas": [
       {
         "texto": "Panadería",
@@ -1221,7 +1221,7 @@
     ]
   },
   {
-    "enunciación": "Animal con cuerno.",
+    "enunciacion": "Animal con cuerno.",
     "respuestas": [
       {
         "texto": "Toro",
@@ -1246,7 +1246,7 @@
     ]
   },
   {
-    "enunciación": "¿Qué es lo más común que le regalas a tu pareja en un aniversario?",
+    "enunciacion": "¿Qué es lo más común que le regalas a tu pareja en un aniversario?",
     "respuestas": [
       {
         "texto": "Flores",
@@ -1271,7 +1271,7 @@
     ]
   },
   {
-    "enunciación": "¿Qué artículo necesitas para darte un baño?",
+    "enunciacion": "¿Qué artículo necesitas para darte un baño?",
     "respuestas": [
       {
         "texto": "Jabón",
@@ -1296,7 +1296,7 @@
     ]
   },
   {
-    "enunciación": "Comida más común que dan en una boda típica de pueblo.",
+    "enunciacion": "Comida más común que dan en una boda típica de pueblo.",
     "respuestas": [
       {
         "texto": "Mole",
@@ -1321,7 +1321,7 @@
     ]
   },
   {
-    "enunciación": "Otra manera del decirle a tu papá",
+    "enunciacion": "Otra manera del decirle a tu papá",
     "respuestas": [
       {
         "texto": "Jefe",
@@ -1346,7 +1346,7 @@
     ]
   },
   {
-    "enunciación": "Animal que tiene cuello largo",
+    "enunciacion": "Animal que tiene cuello largo",
     "respuestas": [
       {
         "texto": "Jirafa",
@@ -1371,7 +1371,7 @@
     ]
   },
   {
-    "enunciación": "Cosas que te venden en una función de circo.",
+    "enunciacion": "Cosas que te venden en una función de circo.",
     "respuestas": [
       {
         "texto": "Palomitas",
@@ -1396,7 +1396,7 @@
     ]
   },
   {
-    "enunciación": "Moneda que acepta un cajero de estacionamiento.",
+    "enunciacion": "Moneda que acepta un cajero de estacionamiento.",
     "respuestas": [
       {
         "texto": "5 Pesos",
@@ -1421,7 +1421,7 @@
     ]
   },
   {
-    "enunciación": "Menciona una licenciatura o carrera común.",
+    "enunciacion": "Menciona una licenciatura o carrera común.",
     "respuestas": [
       {
         "texto": "Derecho",
@@ -1446,7 +1446,7 @@
     ]
   },
   {
-    "enunciación": "Además del espresso, manera más popular de preparar el café",
+    "enunciacion": "Además del espresso, manera más popular de preparar el café",
     "respuestas": [
       {
         "texto": "Capuchino",
@@ -1471,7 +1471,7 @@
     ]
   },
   {
-    "enunciación": "¿Qué te puedes depilar?",
+    "enunciacion": "¿Qué te puedes depilar?",
     "respuestas": [
       {
         "texto": "Axilas",
@@ -1496,7 +1496,7 @@
     ]
   },
   {
-    "enunciación": "¿Para qué puedes utilizar un caballo?",
+    "enunciacion": "¿Para qué puedes utilizar un caballo?",
     "respuestas": [
       {
         "texto": "Pasear",
@@ -1521,7 +1521,7 @@
     ]
   },
   {
-    "enunciación": "Además de Presidente, menciona otro cargo público que represente a la gente.",
+    "enunciacion": "Además de Presidente, menciona otro cargo público que represente a la gente.",
     "respuestas": [
       {
         "texto": "Gobernador",
@@ -1546,7 +1546,7 @@
     ]
   },
   {
-    "enunciación": "Menciona una comida típica yucateca.",
+    "enunciacion": "Menciona una comida típica yucateca.",
     "respuestas": [
       {
         "texto": "Cochinita Pibil",
@@ -1571,7 +1571,7 @@
     ]
   },
   {
-    "enunciación": "Prenda de vestir con bolsas.",
+    "enunciacion": "Prenda de vestir con bolsas.",
     "respuestas": [
       {
         "texto": "Pantalón",
@@ -1596,7 +1596,7 @@
     ]
   },
   {
-    "enunciación": "Mueble que encuentras en una recámara.",
+    "enunciacion": "Mueble que encuentras en una recámara.",
     "respuestas": [
       {
         "texto": "Cama",
@@ -1621,7 +1621,7 @@
     ]
   },
   {
-    "enunciación": "Remedio para desinflamar un golpe en la cara.",
+    "enunciacion": "Remedio para desinflamar un golpe en la cara.",
     "respuestas": [
       {
         "texto": "Hielo",
@@ -1646,7 +1646,7 @@
     ]
   },
   {
-    "enunciación": "Además del cine, lugar con baño público.",
+    "enunciacion": "Además del cine, lugar con baño público.",
     "respuestas": [
       {
         "texto": "Centro Comercial",
@@ -1671,7 +1671,7 @@
     ]
   },
   {
-    "enunciación": "Estado de la República Mexicana que empieza con C.",
+    "enunciacion": "Estado de la República Mexicana que empieza con C.",
     "respuestas": [
       {
         "texto": "Chihuahua",
@@ -1696,7 +1696,7 @@
     ]
   },
   {
-    "enunciación": "Padrinos que hay en una fiesta de 15 años.",
+    "enunciacion": "Padrinos que hay en una fiesta de 15 años.",
     "respuestas": [
       {
         "texto": "Pastel",
@@ -1721,7 +1721,7 @@
     ]
   },
   {
-    "enunciación": "Menciona un lugar turístico de Chiapas.",
+    "enunciacion": "Menciona un lugar turístico de Chiapas.",
     "respuestas": [
       {
         "texto": "Cañon del Sumidero",
@@ -1746,7 +1746,7 @@
     ]
   },
   {
-    "enunciación": "Además de las orejas, ¿qué otra parte del cuerpo de puedes perforar?",
+    "enunciacion": "Además de las orejas, ¿qué otra parte del cuerpo de puedes perforar?",
     "respuestas": [
       {
         "texto": "Nariz",
@@ -1771,7 +1771,7 @@
     ]
   },
   {
-    "enunciación": "Fruta de color amarillo.",
+    "enunciacion": "Fruta de color amarillo.",
     "respuestas": [
       {
         "texto": "Mango",
@@ -1796,7 +1796,7 @@
     ]
   },
   {
-    "enunciación": "Menciona un país en el que su idioma sea el inglés.",
+    "enunciacion": "Menciona un país en el que su idioma sea el inglés.",
     "respuestas": [
       {
         "texto": "Estados Unidos",
@@ -1821,7 +1821,7 @@
     ]
   },
   {
-    "enunciación": "Sabor que puede tener un chicle",
+    "enunciacion": "Sabor que puede tener un chicle",
     "respuestas": [
       {
         "texto": "Menta",
@@ -1846,7 +1846,7 @@
     ]
   },
   {
-    "enunciación": "¿Qué conservas como recuerdo de un bebé?",
+    "enunciacion": "¿Qué conservas como recuerdo de un bebé?",
     "respuestas": [
       {
         "texto": "Zapatito",
@@ -1871,7 +1871,7 @@
     ]
   },
   {
-    "enunciación": "Lugares más populares que los turistas visitan en la Ciudad de México.",
+    "enunciacion": "Lugares más populares que los turistas visitan en la Ciudad de México.",
     "respuestas": [
       {
         "texto": "Zócalo",
@@ -1896,7 +1896,7 @@
     ]
   },
   {
-    "enunciación": "¿Qué haces para que se vea limpio un piso?",
+    "enunciacion": "¿Qué haces para que se vea limpio un piso?",
     "respuestas": [
       {
         "texto": "Barrer",
@@ -1921,7 +1921,7 @@
     ]
   },
   {
-    "enunciación": "Algo que pones en tu cartera",
+    "enunciacion": "Algo que pones en tu cartera",
     "respuestas": [
       {
         "texto": "Dinero",
@@ -1946,7 +1946,7 @@
     ]
   },
   {
-    "enunciación": "¿De qué color puede ser un vino?",
+    "enunciacion": "¿De qué color puede ser un vino?",
     "respuestas": [
       {
         "texto": "Rojo",
@@ -1971,7 +1971,7 @@
     ]
   },
   {
-    "enunciación": "¿Para qué pones alarmas en tu teléfono?",
+    "enunciacion": "¿Para qué pones alarmas en tu teléfono?",
     "respuestas": [
       {
         "texto": "Despertador",
@@ -1996,7 +1996,7 @@
     ]
   },
   {
-    "enunciación": "¿De qué material puede ser una cancha de fútbol",
+    "enunciacion": "¿De qué material puede ser una cancha de fútbol",
     "respuestas": [
       {
         "texto": "Pasto",
@@ -2021,7 +2021,7 @@
     ]
   },
   {
-    "enunciación": "Alimento que produce gases.",
+    "enunciacion": "Alimento que produce gases.",
     "respuestas": [
       {
         "texto": "Frijoles",
@@ -2046,7 +2046,7 @@
     ]
   },
   {
-    "enunciación": "Si llega el esposo/a a la casa ¿Dónde escondes al tercero en discordia?",
+    "enunciacion": "Si llega el esposo/a a la casa ¿Dónde escondes al tercero en discordia?",
     "respuestas": [
       {
         "texto": "Clóset",
@@ -2071,7 +2071,7 @@
     ]
   },
   {
-    "enunciación": "Cosas que lleva una mujer en la bolsa.",
+    "enunciacion": "Cosas que lleva una mujer en la bolsa.",
     "respuestas": [
       {
         "texto": "Cosméticos",
@@ -2096,7 +2096,7 @@
     ]
   },
   {
-    "enunciación": "Animal de color blanco y negro.",
+    "enunciacion": "Animal de color blanco y negro.",
     "respuestas": [
       {
         "texto": "Oso Panda",
@@ -2121,7 +2121,7 @@
     ]
   },
   {
-    "enunciación": "¿Para que soplas?",
+    "enunciacion": "¿Para que soplas?",
     "respuestas": [
       {
         "texto": "Apagar Velas",
@@ -2146,7 +2146,7 @@
     ]
   },
   {
-    "enunciación": "Ultima actividad que haces antes de dormir.",
+    "enunciacion": "Ultima actividad que haces antes de dormir.",
     "respuestas": [
       {
         "texto": "Cepillarme los dientes",
@@ -2171,7 +2171,7 @@
     ]
   },
   {
-    "enunciación": "¿Qué llevan los chilaquiles",
+    "enunciacion": "¿Qué llevan los chilaquiles",
     "respuestas": [
       {
         "texto": "Totopos",
@@ -2196,7 +2196,7 @@
     ]
   },
   {
-    "enunciación": "Padrinos que participan en una boda religiosa.",
+    "enunciacion": "Padrinos que participan en una boda religiosa.",
     "respuestas": [
       {
         "texto": "Anillo",
@@ -2221,7 +2221,7 @@
     ]
   },
   {
-    "enunciación": "¿Qué hacen los hombres en el baño que a las mujeres les enoja?",
+    "enunciacion": "¿Qué hacen los hombres en el baño que a las mujeres les enoja?",
     "respuestas": [
       {
         "texto": "Salpicar la taza",
@@ -2246,7 +2246,7 @@
     ]
   },
   {
-    "enunciación": "Cantante famosa que inicio su carrera desde niña.",
+    "enunciacion": "Cantante famosa que inicio su carrera desde niña.",
     "respuestas": [
       {
         "texto": "Lucero",
@@ -2271,7 +2271,7 @@
     ]
   },
   {
-    "enunciación": "Cualidad que encuentras en un perro, que puede tener una persona.",
+    "enunciacion": "Cualidad que encuentras en un perro, que puede tener una persona.",
     "respuestas": [
       {
         "texto": "Fiel",
@@ -2296,7 +2296,7 @@
     ]
   },
   {
-    "enunciación": "País en el que se habla portugués.",
+    "enunciacion": "País en el que se habla portugués.",
     "respuestas": [
       {
         "texto": "Brasil",
@@ -2321,7 +2321,7 @@
     ]
   },
   {
-    "enunciación": "Personaje más popular de Blanca Nieves.",
+    "enunciacion": "Personaje más popular de Blanca Nieves.",
     "respuestas": [
       {
         "texto": "Tontín",
@@ -2346,7 +2346,7 @@
     ]
   },
   {
-    "enunciación": "Profesión en la que utilizas un micrófono.",
+    "enunciacion": "Profesión en la que utilizas un micrófono.",
     "respuestas": [
       {
         "texto": "Cantante",
@@ -2371,7 +2371,7 @@
     ]
   },
   {
-    "enunciación": "Bebida que toma la gente por las mañanas",
+    "enunciacion": "Bebida que toma la gente por las mañanas",
     "respuestas": [
       {
         "texto": "Café",
@@ -2396,7 +2396,7 @@
     ]
   },
   {
-    "enunciación": "Día de la semana que cuesta más trabajo levantarse.",
+    "enunciacion": "Día de la semana que cuesta más trabajo levantarse.",
     "respuestas": [
       {
         "texto": "Lunes",
@@ -2421,7 +2421,7 @@
     ]
   },
   {
-    "enunciación": "Platillo típico de la cena navideña.",
+    "enunciacion": "Platillo típico de la cena navideña.",
     "respuestas": [
       {
         "texto": "Pavo",
@@ -2446,7 +2446,7 @@
     ]
   },
   {
-    "enunciación": "¿De qué color puede ser el oro?",
+    "enunciacion": "¿De qué color puede ser el oro?",
     "respuestas": [
       {
         "texto": "Amarillo/Dorado",
@@ -2471,7 +2471,7 @@
     ]
   },
   {
-    "enunciación": "Oficio en el que se usa casco.",
+    "enunciacion": "Oficio en el que se usa casco.",
     "respuestas": [
       {
         "texto": "Obrero",
@@ -2496,7 +2496,7 @@
     ]
   },
   {
-    "enunciación": "Aceite que sirve para cocinar alimentos",
+    "enunciacion": "Aceite que sirve para cocinar alimentos",
     "respuestas": [
       {
         "texto": "Aceite de Oliva",
@@ -2521,7 +2521,7 @@
     ]
   },
   {
-    "enunciación": "Color de ropa interior que las personas usan en una noche especial",
+    "enunciacion": "Color de ropa interior que las personas usan en una noche especial",
     "respuestas": [
       {
         "texto": "Rojo/Vino",
@@ -2546,7 +2546,7 @@
     ]
   },
   {
-    "enunciación": "¿Con quién es más común que te tomes una selfie?",
+    "enunciacion": "¿Con quién es más común que te tomes una selfie?",
     "respuestas": [
       {
         "texto": "Amigos",
@@ -2571,7 +2571,7 @@
     ]
   },
   {
-    "enunciación": "¿Qué necesita una novia para casarse?",
+    "enunciacion": "¿Qué necesita una novia para casarse?",
     "respuestas": [
       {
         "texto": "Vestido",
@@ -2596,7 +2596,7 @@
     ]
   },
   {
-    "enunciación": "¿Qué haces en el auto cuando hay tráfico?",
+    "enunciacion": "¿Qué haces en el auto cuando hay tráfico?",
     "respuestas": [
       {
         "texto": "Escuchar música/Radio",
@@ -2621,7 +2621,7 @@
     ]
   },
   {
-    "enunciación": "Clásico de Fútbol más popular",
+    "enunciacion": "Clásico de Fútbol más popular",
     "respuestas": [
       {
         "texto": "América vs Chivas",
@@ -2646,7 +2646,7 @@
     ]
   },
   {
-    "enunciación": "Algo de adquieres a manera de inversión",
+    "enunciacion": "Algo de adquieres a manera de inversión",
     "respuestas": [
       {
         "texto": "Casa",
@@ -2671,7 +2671,7 @@
     ]
   },
   {
-    "enunciación": "Letras que se usan para talla de una prenda",
+    "enunciacion": "Letras que se usan para talla de una prenda",
     "respuestas": [
       {
         "texto": "G/L",
@@ -2696,7 +2696,7 @@
     ]
   },
   {
-    "enunciación": "¿Con qué acompañas un café?",
+    "enunciacion": "¿Con qué acompañas un café?",
     "respuestas": [
       {
         "texto": "Pan Dulce",
@@ -2721,7 +2721,7 @@
     ]
   },
   {
-    "enunciación": "Nombre de mujer igual al de una flor.",
+    "enunciacion": "Nombre de mujer igual al de una flor.",
     "respuestas": [
       {
         "texto": "Rosa",
@@ -2746,7 +2746,7 @@
     ]
   },
   {
-    "enunciación": "¿Qué haces en la playa?",
+    "enunciacion": "¿Qué haces en la playa?",
     "respuestas": [
       {
         "texto": "Nadar/Meterme al Mar",
@@ -2771,7 +2771,7 @@
     ]
   },
   {
-    "enunciación": "¿Con qué relacionas los vampiros?",
+    "enunciacion": "¿Con qué relacionas los vampiros?",
     "respuestas": [
       {
         "texto": "Chupar Sangre",
@@ -2796,7 +2796,7 @@
     ]
   },
   {
-    "enunciación": "Fruta de cáscara verde.",
+    "enunciacion": "Fruta de cáscara verde.",
     "respuestas": [
       {
         "texto": "Pera",

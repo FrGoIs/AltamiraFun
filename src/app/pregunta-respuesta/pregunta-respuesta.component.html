@@ -1,12 +1,22 @@
 <div class="dashboard">
-    <div class="pregunta" *ngFor="let pregunta of preguntas">
-        {{pregunta.enunciacion}}
+    <div class="puntos">
+        <h2>{{puntaje.equipo1}}</h2>
+    </div>
+    <div class="pregunta">
+        {{selectedQuestion.enunciacion}}
         <div class="contenedor-respuestas">
-            <div class="respuesta" *ngFor="let respuesta of pregunta.respuestas">
+            <div class="respuesta" *ngFor="let respuesta of selectedQuestion.respuestas">
                 <p>
                     {{respuesta.texto}}
                 </p>
             </div>
         </div>
     </div>
+    <div class="puntos">
+        <h2>{{puntaje.equipo2}}</h2>
+    </div>
+
 </div>
+
+<button (click)="getNextQuestion()"> Next Question</button>
+<button (click)="resetGame()"> Reset</button>

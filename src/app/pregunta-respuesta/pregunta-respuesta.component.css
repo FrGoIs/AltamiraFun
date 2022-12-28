@@ -6,6 +6,16 @@
     width: fit-content;
 }
 .dashboard{
+    display: grid;
+    grid-template-columns: 1fr 5fr 1fr;
     background-color: indianred;
     margin-top: 125px;
+}
+.puntos {
+    background-color: white;
+    padding: 20px;
+    text-align: center;
+}
+.respuesta{
+    background-color: #646cff;
 }
