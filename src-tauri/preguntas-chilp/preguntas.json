@@ -2850,204 +2850,603 @@
     ]
   },
   {
-    "enunciacion": "Clásico de Fútbol más popular",
+    "enunciacion": "Manera típica de preparar un pescado.",
     "respuestas": [
       {
-        "texto": "América vs Chivas",
-        "valor": 36
+        "texto": "Empapelado",
+        "valor": 28
       },
       {
-        "texto": "Cruz Ázul vs América",
+        "texto": "Frito",
+        "valor": 24
+      },
+      {
+        "texto": "Al Mojo de Ajo",
+        "valor": 22
+      },
+      {
+        "texto": "Asado",
+        "valor": 15
+      },
+      {
+        "texto": "Empanizado",
+        "valor": 11
+      }
+    ]
+  },
+  {
+    "enunciacion": "Color más común de bolsa de mujer.",
+    "respuestas": [
+      {
+        "texto": "Negro",
+        "valor": 35
+      },
+      {
+        "texto": "Café",
+        "valor": 25
+      },
+      {
+        "texto": "Blanco",
+        "valor": 16
+      },
+      {
+        "texto": "Rojo",
+        "valor": 13
+      },
+      {
+        "texto": "Beige",
+        "valor": 11
+      }
+    ]
+  },
+  {
+    "enunciacion": "Maneras de comer un plátano.",
+    "respuestas": [
+      {
+        "texto": "Con Crema",
+        "valor": 29
+      },
+      {
+        "texto": "Licuado",
+        "valor": 27
+      },
+      {
+        "texto": "Mordiéndolo",
+        "valor": 19
+      },
+      {
+        "texto": "Frito",
+        "valor": 14
+      },
+      {
+        "texto": "Con Arroz",
+        "valor": 11
+      }
+    ]
+  },
+  {
+    "enunciacion": "¿Con qué puedes cargar a un bebé?",
+    "respuestas": [
+      {
+        "texto": "Brazos",
         "valor": 30
       },
       {
-        "texto": "Rayados vs Tigres",
+        "texto": "Bambineto",
+        "valor": 26
+      },
+      {
+        "texto": "Rebozo",
+        "valor": 20
+      },
+      {
+        "texto": "Cangurera",
+        "valor": 15
+      },
+      {
+        "texto": "Mochila Portabebé",
+        "valor": 9
+      }
+    ]
+  },
+  {
+    "enunciacion": "Mariscos con los que preparas un coctel.",
+    "respuestas": [
+      {
+        "texto": "Camarón",
+        "valor": 27
+      },
+      {
+        "texto": "Ostiones",
+        "valor": 25
+      },
+      {
+        "texto": "Pulpo",
+        "valor": 19
+      },
+      {
+        "texto": "Ceviche/Pescado",
+        "valor": 16
+      },
+      {
+        "texto": "Abulón",
+        "valor": 13
+      }
+    ]
+  },
+  {
+    "enunciacion": "¿Qué cualidad tiene una persona formal?",
+    "respuestas": [
+      {
+        "texto": "Puntual",
+        "valor": 33
+      },
+      {
+        "texto": "Se Viste de Traje",
+        "valor": 23
+      },
+      {
+        "texto": "Atento",
+        "valor": 18
+      },
+      {
+        "texto": "Educado",
+        "valor": 15
+      },
+      {
+        "texto": "Responsable",
+        "valor": 11
+      }
+    ]
+  },
+  {
+    "enunciacion": "¿Qué necesitas para clavar un cuadro?",
+    "respuestas": [
+      {
+        "texto": "Martillo",
+        "valor": 30
+      },
+      {
+        "texto": "Clavo",
+        "valor": 24
+      },
+      {
+        "texto": "Taladro",
+        "valor": 18
+      },
+      {
+        "texto": "Taquete",
+        "valor": 15
+      },
+      {
+        "texto": "Cuadro",
+        "valor": 13
+      }
+    ]
+  },
+  {
+    "enunciacion": "Lugar donde puedes encontrar una fuente.",
+    "respuestas": [
+      {
+        "texto": "Jardín/Casa",
+        "valor": 37
+      },
+      {
+        "texto": "Parque",
+        "valor": 28
+      },
+      {
+        "texto": "Hotel",
+        "valor": 14
+      },
+      {
+        "texto": "Centro Comercial",
+        "valor": 12
+      },
+      {
+        "texto": "Iglesia",
+        "valor": 9
+      }
+    ]
+  },
+  {
+    "enunciacion": "¿Qué haces para conquistar a una mujer?",
+    "respuestas": [
+      {
+        "texto": "Enviarle Flores",
+        "valor": 33
+      },
+      {
+        "texto": "Hablarle Bonito",
+        "valor": 28
+      },
+      {
+        "texto": "Regalarle Chocolates",
         "valor": 17
       },
       {
-        "texto": "Pumas vs América",
-        "valor": 9
+        "texto": "Serenata/Dedicarle Canciones",
+        "valor": 13
       },
       {
-        "texto": "Chivas vs Pumas",
+        "texto": "Ser Honesto",
+        "valor": 9
+      }
+    ]
+  },
+  {
+    "enunciacion": "Cosas que olvidas cuando haces una maleta.",
+    "respuestas": [
+      {
+        "texto": "Cepillo de Dientes",
+        "valor": 34
+      },
+      {
+        "texto": "Calcetines/Calcetas",
+        "valor": 27
+      },
+      {
+        "texto": "Shampoo",
+        "valor": 17
+      },
+      {
+        "texto": "Toallas",
+        "valor": 14
+      },
+      {
+        "texto": "Chanclas",
         "valor": 8
       }
     ]
   },
   {
-    "enunciacion": "Algo de adquieres a manera de inversión",
+    "enunciacion": "Alimentos salados que engordan.",
     "respuestas": [
       {
-        "texto": "Casa",
-        "valor": 38
+        "texto": "Papas",
+        "valor": 29
       },
       {
-        "texto": "Terreno",
-        "valor": 25
+        "texto": "Pan",
+        "valor": 27
       },
       {
-        "texto": "Automóvil",
-        "valor": 16
-      },
-      {
-        "texto": "Joyas",
-        "valor": 13
-      },
-      {
-        "texto": "Departamento",
-        "valor": 13
-      }
-    ]
-  },
-  {
-    "enunciacion": "Letras que se usan para talla de una prenda",
-    "respuestas": [
-      {
-        "texto": "G/L",
-        "valor": 31
-      },
-      {
-        "texto": "M/M",
-        "valor": 26
-      },
-      {
-        "texto": "CH/S",
-        "valor": 21
-      },
-      {
-        "texto": "EG/XL",
-        "valor": 15
-      },
-      {
-        "texto": "XCH/XS",
-        "valor": 7
-      }
-    ]
-  },
-  {
-    "enunciacion": "¿Con qué acompañas un café?",
-    "respuestas": [
-      {
-        "texto": "Pan Dulce",
-        "valor": 38
+        "texto": "Tacos/Tortillas",
+        "valor": 18
       },
       {
         "texto": "Galletas",
-        "valor": 27
-      },
-      {
-        "texto": "Pastel",
         "valor": 15
       },
       {
-        "texto": "Azúcar",
+        "texto": "Gorditas/Sopes",
         "valor": 11
-      },
-      {
-        "texto": "Cigarro",
-        "valor": 9
       }
     ]
   },
   {
-    "enunciacion": "Nombre de mujer igual al de una flor.",
+    "enunciacion": "Causa por la que un niño pequeño hace berrinche.",
     "respuestas": [
       {
-        "texto": "Rosa",
-        "valor": 32
+        "texto": "Por un dulce",
+        "valor": 36
       },
       {
-        "texto": "Margarita",
-        "valor": 27
+        "texto": "Por un juguete",
+        "valor": 26
       },
       {
-        "texto": "Azucena",
-        "valor": 20
+        "texto": "Por Coraje",
+        "valor": 17
       },
       {
-        "texto": "Violeta",
-        "valor": 11
+        "texto": "Por Falta de Atención",
+        "valor": 13
       },
       {
-        "texto": "Jazmín",
+        "texto": "Por que no lo dejan seguir jugando",
+        "valor": 8
+      }
+    ]
+  },
+  {
+    "enunciacion": "Menciona un día muy feliz en la vida de una mujer.",
+    "respuestas": [
+      {
+        "texto": "Nacimiento de un hijo",
+        "valor": 31
+      },
+      {
+        "texto": "Boda",
+        "valor": 25
+      },
+      {
+        "texto": "Día de las Madres",
+        "valor": 22
+      },
+      {
+        "texto": "Graduación",
+        "valor": 14
+      },
+      {
+        "texto": "Estar Embarazada",
+        "valor": 8
+      }
+    ]
+  },
+  {
+    "enunciacion": "Verdura más usada en las ensaladas.",
+    "respuestas": [
+      {
+        "texto": "Lechuga",
+        "valor": 35
+      },
+      {
+        "texto": "Zanahoria",
+        "valor": 25
+      },
+      {
+        "texto": "Jitomate",
+        "valor": 19
+      },
+      {
+        "texto": "Pepino",
+        "valor": 15
+      },
+      {
+        "texto": "Cebolla",
+        "valor": 6
+      }
+    ]
+  },
+  {
+    "enunciacion": "¿Qué haces para festejar a tu mamá el 10 de mayo?",
+    "respuestas": [
+      {
+        "texto": "Comida/Fiesta",
+        "valor": 29
+      },
+      {
+        "texto": "Flores",
+        "valor": 25
+      },
+      {
+        "texto": "Pastel",
+        "valor": 22
+      },
+      {
+        "texto": "Serenata/Mariachi",
+        "valor": 14
+      },
+      {
+        "texto": "Llevarle un regalo",
         "valor": 10
       }
     ]
   },
   {
-    "enunciacion": "¿Qué haces en la playa?",
+    "enunciacion": "Animal de granja con 4 patas.",
     "respuestas": [
       {
-        "texto": "Nadar/Meterme al Mar",
-        "valor": 34
+        "texto": "Vaca",
+        "valor": 41
       },
       {
-        "texto": "Asolearme",
-        "valor": 26
+        "texto": "Cerdo/Puerco",
+        "valor": 23
       },
       {
-        "texto": "Descansar/Relajarme",
-        "valor": 19
+        "texto": "Caballo",
+        "valor": 18
       },
       {
-        "texto": "Hacer Castillos de Arena",
-        "valor": 14
+        "texto": "Borrego",
+        "valor": 11
       },
       {
-        "texto": "Beber",
+        "texto": "Cabra",
         "valor": 7
       }
     ]
   },
   {
-    "enunciacion": "¿Con qué relacionas los vampiros?",
+    "enunciacion": "Alimento que no le gusta comer a los niños.",
     "respuestas": [
       {
-        "texto": "Chupar Sangre",
-        "valor": 35
+        "texto": "Verduras",
+        "valor": 33
       },
       {
-        "texto": "Colmillos",
-        "valor": 27
+        "texto": "Frijoles",
+        "valor": 25
       },
       {
-        "texto": "Ajo",
+        "texto": "Carne/Hígado",
+        "valor": 19
+      },
+      {
+        "texto": "Pescado",
         "valor": 16
       },
       {
-        "texto": "Capa/Volar",
-        "valor": 13
+        "texto": "Huevo",
+        "valor": 7
+      }
+    ]
+  },
+  {
+    "enunciacion": "¿Qué ves en la alberca de un hotel?.",
+    "respuestas": [
+      {
+        "texto": "Agua",
+        "valor": 31
       },
       {
-        "texto": "Murciélagos",
+        "texto": "Personas",
+        "valor": 30
+      },
+      {
+        "texto": "Toallas",
+        "valor": 16
+      },
+      {
+        "texto": "Salvavidas",
+        "valor": 14
+      },
+      {
+        "texto": "Camastros",
         "valor": 9
       }
     ]
   },
   {
-    "enunciacion": "Fruta de cáscara verde.",
+    "enunciacion": "¿Qué porcentaje de propina dejas cuando te dan un buen servicio?",
     "respuestas": [
       {
-        "texto": "Pera",
-        "valor": 28
+        "texto": "10%",
+        "valor": 51
       },
       {
-        "texto": "Limón",
-        "valor": 26
+        "texto": "15%",
+        "valor": 23
       },
       {
-        "texto": "Manzana",
+        "texto": "20%",
+        "valor": 12
+      },
+      {
+        "texto": "5%",
+        "valor": 9
+      },
+      {
+        "texto": "30%",
+        "valor": 5
+      }
+    ]
+  },
+  {
+    "enunciacion": "Telenovela de Verónica Castro.",
+    "respuestas": [
+      {
+        "texto": "Rosa Salvaje",
+        "valor": 33
+      },
+      {
+        "texto": "Los Ricos También Lloran",
         "valor": 21
       },
       {
-        "texto": "Sandía",
+        "texto": "La Casa de las Flores",
+        "valor": 18
+      },
+      {
+        "texto": "Pueblo Chico, Infierno Grande",
+        "valor": 16
+      },
+      {
+        "texto": "Mi Pequeña Soledas",
+        "valor": 12
+      }
+    ]
+  },
+  {
+    "enunciacion": "Menciona una comida típica de Oaxaca.",
+    "respuestas": [
+      {
+        "texto": "Tlayudas",
+        "valor": 41
+      },
+      {
+        "texto": "Mole",
+        "valor": 23
+      },
+      {
+        "texto": "Tamales Oaxaqueños",
+        "valor": 16
+      },
+      {
+        "texto": "Chapulines",
+        "valor": 11
+      },
+      {
+        "texto": "Tasajo",
+        "valor": 9
+      }
+    ]
+  },
+  {
+    "enunciacion": "Personaje de la serie (Nosotros los Guapos)",
+    "respuestas": [
+      {
+        "texto": "Vítor",
+        "valor": 32
+      },
+      {
+        "texto": "Albertano",
+        "valor": 25
+      },
+      {
+        "texto": "Doña Cuca / Carmen Salinas",
+        "valor": 23
+      },
+      {
+        "texto": "Don Nacho / Manuel (Flaco) Ibañez",
+        "valor": 12
+      },
+      {
+        "texto": "Rosita / Malillany Marín",
+        "valor": 8
+      }
+    ]
+  },
+  {
+    "enunciacion": "¿Al morir qué órgano donarías?",
+    "respuestas": [
+      {
+        "texto": "Corazón",
+        "valor": 35
+      },
+      {
+        "texto": "Riñón",
+        "valor": 22
+      },
+      {
+        "texto": "Pulmones",
+        "valor": 17
+      },
+      {
+        "texto": "Córneas",
         "valor": 14
       },
       {
-        "texto": "Uva",
-        "valor": 11
+        "texto": "Todo",
+        "valor": 12
+      }
+    ]
+  },
+  {
+    "enunciacion": "Algo que usa un Doctor al revisarte.",
+    "respuestas": [
+      {
+        "texto": "Estetoscopio",
+        "valor": 31
+      },
+      {
+        "texto": "Termómetro",
+        "valor": 28
+      },
+      {
+        "texto": "Abatelenguas",
+        "valor": 23
+      },
+      {
+        "texto": "Monitor de Presión",
+        "valor": 12
+      },
+      {
+        "texto": "Lámpara",
+        "valor": 6
       }
     ]
   }
-
 ]
