@@ -8,7 +8,6 @@
 .dashboard{
     display: grid;
     grid-template-columns: 1fr 5fr 1fr;
-    background-color: indianred;
     margin-top: 125px;
 }
 .puntos {
@@ -20,9 +19,28 @@
     margin: auto 10px;
 }
 .strike{
+    display: inline-block;
+    background-color: black;
+    height: 128px;
+    width: 128px;
+    margin: 30px;
+    border: 10px solid #F9B233;
+    border-radius: 15px;
+
+}
+.strike span{
     color: red;
-    font-size: 48px;
+    font-size: 110px;
+    position: relative;
+    top: 60px;
+    left: 30px;
+}
+.strike:first-of-type{
+    margin-left: 35%;
 }
 .respuesta{
-    background-color: #646cff;
+    background-color: #253D73;
+    border-radius: 15px;
+    border: 10px solid #F9B233;
+    margin: 25px 10px   ;
 }

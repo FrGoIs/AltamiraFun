@@ -16,10 +16,10 @@
 
 </div>
 
-<div>
-    <div *ngIf="strikeCount >= 1" class="strike">X</div>
-    <div *ngIf="strikeCount >= 2" class="strike">X</div>
-    <div *ngIf="strikeCount >= 3" class="strike">X</div>
+<div style="margin: auto 30px">
+    <div  class="strike"><span *ngIf="strikeCount >= 1">X</span></div>
+    <div  class="strike"><span *ngIf="strikeCount >= 2">X</span></div>
+    <div  class="strike"><span *ngIf="strikeCount >= 3">X</span></div>
 </div>
 
 <button (click)="getNextQuestion()"> Next Question</button>
