@@ -14,6 +14,8 @@ export class GameHostComponent implements OnInit {
     // @ts-ignore
     public selectedQuestion: Pregunta;
 
+    public strikeCount = 0;
+
     public puntaje = {
         equipo1: 0,
         equipo2: 0
@@ -46,4 +48,10 @@ export class GameHostComponent implements OnInit {
         this.getQuestionsFromFile(QUESTIONS_PATH)
     }
 
+    public incrementStrikeCount(){
+        this.strikeCount++;
+    }
+    public resetStrikeCount() {
+        this.strikeCount = 0
+    }
 }

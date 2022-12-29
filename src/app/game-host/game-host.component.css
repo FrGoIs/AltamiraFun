@@ -19,6 +19,10 @@
     max-width: 60px;
     margin: auto 10px;
 }
+.strike{
+    color: red;
+    font-size: 48px;
+}
 .respuesta{
     background-color: #646cff;
 }
