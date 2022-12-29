@@ -1,8 +1,8 @@
 .pregunta {
     color: white;
     font-weight: bold;
-    font-size: 1.8rem;
-    margin: 15px auto ;
+    font-size: 1.4rem;
+    margin: 20% auto 15px auto;
     width: fit-content;
 }
 .dashboard{
@@ -21,19 +21,21 @@
 .strike{
     display: inline-block;
     background-color: black;
-    height: 128px;
-    width: 128px;
-    margin: 30px;
+    height: 64px;
+    width: 64px;
+    margin: 15px;
     border: 10px solid #F9B233;
     border-radius: 15px;
 
 }
 .strike span{
     color: red;
-    font-size: 110px;
+    font-size: 55px;
     position: relative;
-    top: 60px;
-    left: 30px;
+    top: 30px;
+    left: 15px;
+    margin: 0;
+    padding: 0;
 }
 .strike:first-of-type{
     margin-left: 35%;
@@ -41,6 +43,6 @@
 .respuesta{
     background-color: #253D73;
     border-radius: 15px;
-    border: 10px solid #F9B233;
+    border: 5px solid #F9B233;
     margin: 25px 10px   ;
 }

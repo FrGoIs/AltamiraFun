@@ -5,7 +5,6 @@ import { GameHostModule } from './game-host/game-host.module';
 @Component({
   selector: "app-root",
   template: `
-    <h1>100 Mexicanos Dijeron</h1>
     <app-game-host></app-game-host>
 
   `,

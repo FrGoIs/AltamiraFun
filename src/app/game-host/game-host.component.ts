@@ -26,12 +26,14 @@ export class GameHostComponent implements OnInit {
 
     ngOnInit(): void {
         this.getQuestionsFromFile(QUESTIONS_PATH)
+
     }
 
     async getQuestionsFromFile(path:string){
         const resourcePath = await resolveResource(path)
         const file = await readTextFile(resourcePath);
         this.preguntas = JSON.parse(file)
+        this.getNextQuestion();
         return true;
     }
     public getNextQuestion(){

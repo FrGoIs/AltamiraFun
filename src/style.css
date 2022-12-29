@@ -5,8 +5,10 @@
   font-weight: 400;
 
   color: #0f0f0f;
-  background: linear-gradient(to bottom, rgb(109, 135, 194), rgb(5, 8 ,141));
+  background: no-repeat url("assets/gonzalez_fondo.png");
   height: 100vh;
+  width: 100vw;
+  background-size: cover;
 
   font-synthesis: none;
   text-rendering: optimizeLegibility;
