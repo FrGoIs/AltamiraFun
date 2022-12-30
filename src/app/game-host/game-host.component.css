@@ -35,7 +35,7 @@
 .strike-container{
     margin:  30px auto ;
     display: grid;
-    grid-template-columns: 1fr 1fr 1fr;
+    grid-template-columns: 1fr 1fr 1fr 1fr;
     width: 500px;
 }
 .strike{

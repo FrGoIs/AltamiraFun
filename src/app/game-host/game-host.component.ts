@@ -1,5 +1,5 @@
 import { Component, OnInit } from '@angular/core';
-import { Pregunta } from '../models/interfaces';
+import { Moderador, Pregunta } from '../models/interfaces';
 import { resolveResource } from '@tauri-apps/api/path'
 // alternatively, use `window.__TAURI__.path.resolveResource`
 import { readTextFile } from '@tauri-apps/api/fs'
@@ -9,17 +9,16 @@ const QUESTIONS_PATH = 'preguntas-chilp/preguntas.json';
     selector: 'app-game-host', templateUrl: './game-host.component.html', styleUrls: ['./game-host.component.css']
 })
 export class GameHostComponent implements OnInit {
-
+    public moderador: Moderador = {
+        team0Points: 0,
+        team1Points: 0,
+        runningCount: 0,
+        xCount: 0
+    }
     private preguntas: Pregunta[] = [];
     // @ts-ignore
     public selectedQuestion: Pregunta;
 
-    public strikeCount = 0;
-
-    public puntaje = {
-        equipo1: 0,
-        equipo2: 0
-    }
 
     public currentPoints = 0;
 
@@ -46,7 +45,7 @@ export class GameHostComponent implements OnInit {
         console.log("selectedQuestion", this.selectedQuestion)
 
         // TODO: for testing purposes only
-        this.currentPoints += Math.floor( Math.random() * 101);
+        this.moderador.runningCount += Math.floor( Math.random() * 100);
     }
 
     public resetGame(){
@@ -56,9 +55,20 @@ export class GameHostComponent implements OnInit {
     }
 
     public incrementStrikeCount(){
-        this.strikeCount++;
+        this.moderador.xCount++;
     }
     public resetStrikeCount() {
-        this.strikeCount = 0
+        this.moderador.xCount = 0
+    }
+    public addPoints(teamNumber: number){
+        switch (teamNumber){
+            case 0:
+                this.moderador.team0Points += this.moderador.runningCount;
+                break;
+            case 1:
+                this.moderador.team1Points += this.moderador.runningCount;
+                break;
+        }
+        this.moderador.runningCount = 0;
     }
 }

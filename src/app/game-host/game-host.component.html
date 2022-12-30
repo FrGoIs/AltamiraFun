@@ -1,35 +1,39 @@
 <div class="current-points">
     <img src="/assets/puntos.png" alt="" >
-    <p>{{currentPoints}}</p>
+    <p>{{this.moderador.runningCount}}</p>
 </div>
 
 <div class="dashboard">
     <div class="puntos">
-        <h2>{{puntaje.equipo1}}</h2>
+        <h2>{{moderador.team0Points}}</h2>
     </div>
     <div class="pregunta">
         <p>
-            {{selectedQuestion.enunciacion}}
+            {{selectedQuestion?.enunciacion}}
         </p>
         <div class="contenedor-respuestas">
-            <div class="respuesta" *ngFor="let respuesta of selectedQuestion.respuestas">
+            <div class="respuesta" *ngFor="let respuesta of selectedQuestion?.respuestas">
                 <app-answer [respuesta]="respuesta"></app-answer>
             </div>
         </div>
     </div>
     <div class="puntos">
-        <h2>{{puntaje.equipo2}}</h2>
+        <h2>{{moderador.team1Points}}</h2>
     </div>
 
 </div>
 
 <div class="strike-container">
-    <div  class="strike"><div *ngIf="strikeCount >= 1">X</div></div>
-    <div  class="strike"><div *ngIf="strikeCount >= 2">X</div></div>
-    <div  class="strike"><div *ngIf="strikeCount >= 3">X</div></div>
+    <div  class="strike"><div *ngIf="moderador.xCount >= 1">X</div></div>
+    <div  class="strike"><div *ngIf="moderador.xCount >= 2">X</div></div>
+    <div  class="strike"><div *ngIf="moderador.xCount >= 3">X</div></div>
+    <div  class="strike" *ngIf="moderador.xCount >= 3"><div *ngIf="moderador.xCount >= 4">X</div></div>
+
 </div>
 
 <button (click)="getNextQuestion()"> Next Question</button>
 <button (click)="resetGame()"> Reset</button>
 <button (click)="incrementStrikeCount()"> Increment Strike</button>
 <button (click)="resetStrikeCount()"> Reset Strike</button>
+<button (click)="addPoints(0)"> Add Points team 1</button>
+<button (click)="addPoints(1)"> Add Points team 2</button>
