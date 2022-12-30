@@ -5,22 +5,42 @@
     margin: 20% auto 15px auto;
     width: fit-content;
 }
+.pregunta p{
+    background-color: #162245;
+    border-radius: 15px;
+    font-size: 1.8rem;
+    padding: 25px;
+    text-align: center;
+    margin: 0;
+}
 .dashboard{
     display: grid;
     grid-template-columns: 1fr 5fr 1fr;
     margin-top: 125px;
 }
+.dashboard>.puntos:first-of-type{
+    margin-left: 50%;
+}
 .puntos {
-    background-color: white;
+    background-color: #162245;
+    border-radius: 15px;
+    border: 5px solid #F9B233;
+    color: white;
     padding: 20px;
     text-align: center;
     max-height: 50px;
     max-width: 60px;
     margin: auto 10px;
 }
+.strike-container{
+    margin:  30px auto ;
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    width: 500px;
+}
 .strike{
-    display: inline-block;
-    background-color: black;
+    display: block;
+    background-color: #162245;
     height: 64px;
     width: 64px;
     margin: 15px;
@@ -28,7 +48,7 @@
     border-radius: 15px;
 
 }
-.strike span{
+.strike div{
     color: red;
     font-size: 55px;
     position: relative;
@@ -37,9 +57,7 @@
     margin: 0;
     padding: 0;
 }
-.strike:first-of-type{
-    margin-left: 35%;
-}
+
 .respuesta{
     background-color: #253D73;
     border-radius: 15px;

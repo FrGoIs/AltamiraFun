@@ -8,7 +8,9 @@
         <h2>{{puntaje.equipo1}}</h2>
     </div>
     <div class="pregunta">
-        {{selectedQuestion.enunciacion}}
+        <p>
+            {{selectedQuestion.enunciacion}}
+        </p>
         <div class="contenedor-respuestas">
             <div class="respuesta" *ngFor="let respuesta of selectedQuestion.respuestas">
                 <app-answer [respuesta]="respuesta"></app-answer>
@@ -21,10 +23,10 @@
 
 </div>
 
-<div style="margin: auto 30px">
-    <div  class="strike"><span *ngIf="strikeCount >= 1">X</span></div>
-    <div  class="strike"><span *ngIf="strikeCount >= 2">X</span></div>
-    <div  class="strike"><span *ngIf="strikeCount >= 3">X</span></div>
+<div class="strike-container">
+    <div  class="strike"><div *ngIf="strikeCount >= 1">X</div></div>
+    <div  class="strike"><div *ngIf="strikeCount >= 2">X</div></div>
+    <div  class="strike"><div *ngIf="strikeCount >= 3">X</div></div>
 </div>
 
 <button (click)="getNextQuestion()"> Next Question</button>
