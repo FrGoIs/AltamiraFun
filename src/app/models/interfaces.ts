@@ -7,6 +7,7 @@ export interface Pregunta{
 export interface Respuesta {
     texto: string;
     valor: number;
+    show?: boolean
 }
 export interface Moderador{
     team0Points: number;

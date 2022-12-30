@@ -51,6 +51,9 @@ export class GameHostComponent implements OnInit {
     public resetGame(){
         // @ts-ignore
         this.selectedQuestion = undefined;
+        this.moderador.team0Points = 0
+        this.moderador.team1Points = 1;
+        this.moderador.xCount = 0;
         this.getQuestionsFromFile(QUESTIONS_PATH)
     }
 
@@ -70,5 +73,11 @@ export class GameHostComponent implements OnInit {
                 break;
         }
         this.moderador.runningCount = 0;
+        this.moderador.xCount = 0;
+    }
+
+    revealAnswer(answerNo: number) {
+        this.selectedQuestion.respuestas[answerNo].show = true;
+        console.log(answerNo, 'ANSWER NO');
     }
 }

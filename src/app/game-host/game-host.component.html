@@ -37,3 +37,7 @@
 <button (click)="resetStrikeCount()"> Reset Strike</button>
 <button (click)="addPoints(0)"> Add Points team 1</button>
 <button (click)="addPoints(1)"> Add Points team 2</button>
+<br>
+<div *ngFor="let respuesta of selectedQuestion?.respuestas; index as i">
+    <button (click)="revealAnswer(i)">{{i}}</button>
+</div>
