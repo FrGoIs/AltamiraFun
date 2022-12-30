@@ -44,5 +44,30 @@
     background-color: #253D73;
     border-radius: 15px;
     border: 5px solid #F9B233;
-    margin: 25px 10px   ;
+    margin: 25px 10px;
+    max-width: 100%;
+}
+.contenedor-respuestas{
+    max-height: 500px;
+    width: 50vw;
+    display: grid;
+    grid-template-columns: 1fr 1fr;
+}
+
+.current-points{
+    position: absolute;
+    top: 50px;
+    left: 75%;
+    max-height: 120px;
+}
+.current-points img{
+    max-height: 120px;
+}
+.current-points p {
+    color: white;
+    font-weight: bold;
+    font-size: 48px;
+    position: relative;
+    top: -120px;
+    left: 35%;
 }

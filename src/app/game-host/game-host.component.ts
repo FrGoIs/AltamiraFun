@@ -21,6 +21,8 @@ export class GameHostComponent implements OnInit {
         equipo2: 0
     }
 
+    public currentPoints = 0;
+
     constructor() {
     }
 
@@ -42,6 +44,9 @@ export class GameHostComponent implements OnInit {
         // @ts-ignore
         this.selectedQuestion = this.preguntas.splice(removeIndex,1).pop();
         console.log("selectedQuestion", this.selectedQuestion)
+
+        // TODO: for testing purposes only
+        this.currentPoints += Math.floor( Math.random() * 101);
     }
 
     public resetGame(){
