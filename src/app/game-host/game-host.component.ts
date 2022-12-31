@@ -44,8 +44,6 @@ export class GameHostComponent implements OnInit {
         this.selectedQuestion = this.preguntas.splice(removeIndex,1).pop();
         console.log("selectedQuestion", this.selectedQuestion)
 
-        // TODO: for testing purposes only
-        this.moderador.runningCount += Math.floor( Math.random() * 100);
     }
 
     public resetGame(){
@@ -56,12 +54,8 @@ export class GameHostComponent implements OnInit {
         this.moderador.xCount = 0;
         this.getQuestionsFromFile(QUESTIONS_PATH)
     }
-
     public incrementStrikeCount(){
         this.moderador.xCount++;
-    }
-    public resetStrikeCount() {
-        this.moderador.xCount = 0
     }
     public addPoints(teamNumber: number){
         switch (teamNumber){
@@ -78,6 +72,7 @@ export class GameHostComponent implements OnInit {
 
     revealAnswer(answerNo: number) {
         this.selectedQuestion.respuestas[answerNo].show = true;
-        console.log(answerNo, 'ANSWER NO');
+        this.moderador.runningCount += this.selectedQuestion.respuestas[answerNo].valor;
+
     }
 }

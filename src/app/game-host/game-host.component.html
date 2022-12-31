@@ -31,13 +31,9 @@
 
 </div>
 
-<button (click)="getNextQuestion()"> Next Question</button>
+<button (click)="getNextQuestion()"> Next </button>
 <button (click)="resetGame()"> Reset</button>
-<button (click)="incrementStrikeCount()"> Increment Strike</button>
-<button (click)="resetStrikeCount()"> Reset Strike</button>
-<button (click)="addPoints(0)"> Add Points team 1</button>
-<button (click)="addPoints(1)"> Add Points team 2</button>
-<br>
-<div *ngFor="let respuesta of selectedQuestion?.respuestas; index as i">
-    <button (click)="revealAnswer(i)">{{i}}</button>
-</div>
+<button (click)="incrementStrikeCount()"> Strike</button>
+<button (click)="addPoints(0)"> Team 1</button>
+<button (click)="addPoints(1)"> Team 2</button>
+<button *ngFor="let respuesta of selectedQuestion?.respuestas; index as i" (click)="revealAnswer(i)">{{i + 1}}</button>

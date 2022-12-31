@@ -1,5 +1,5 @@
 <div class="flip-card">
-    <div class="flipcard-inner">
+    <div class="flip-card-inner" [ngClass]="respuesta.show ? 'rotate' : ''">
         <div class="flip-card-front"></div>
         <div class="flip-card-back">
             <p>{{respuesta.texto}}<span>{{respuesta.valor}}</span></p>
