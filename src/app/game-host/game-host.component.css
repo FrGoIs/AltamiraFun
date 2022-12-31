@@ -25,11 +25,12 @@
     background-color: #162245;
     border-radius: 15px;
     border: 5px solid #F9B233;
+    font-size: 2rem;
     color: white;
     padding: 20px;
     text-align: center;
-    max-height: 50px;
-    max-width: 60px;
+    max-height: 75px;
+    max-width: 75px;
     margin: auto 10px;
 }
 .strike-container{

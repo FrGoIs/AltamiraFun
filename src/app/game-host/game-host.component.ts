@@ -42,7 +42,8 @@ export class GameHostComponent implements OnInit {
         console.log("here", removeIndex, this.preguntas.length)
         // @ts-ignore
         this.selectedQuestion = this.preguntas.splice(removeIndex,1).pop();
-        console.log("selectedQuestion", this.selectedQuestion)
+        this.moderador.runningCount = 0;
+        this.moderador.xCount = 0;
 
     }
 
@@ -50,8 +51,9 @@ export class GameHostComponent implements OnInit {
         // @ts-ignore
         this.selectedQuestion = undefined;
         this.moderador.team0Points = 0
-        this.moderador.team1Points = 1;
+        this.moderador.team1Points = 0;
         this.moderador.xCount = 0;
+        this.moderador.runningCount = 0
         this.getQuestionsFromFile(QUESTIONS_PATH)
     }
     public incrementStrikeCount(){
