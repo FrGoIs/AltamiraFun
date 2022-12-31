@@ -1,26 +1,297 @@
 [
   {
-    "enunciacion": "¿Qué aprendes de memoria en la primaria?",
+    "enunciacion": "Menciona frases típicas de los González",
     "respuestas": [
       {
-        "texto": "Tablas de multiplicar",
+        "texto": "Que viva la familia",
         "valor": 37
       },
       {
-        "texto": "Abecedario/vocales",
+        "texto": "Hay más de todo",
         "valor": 22
       },
       {
-        "texto": "Himno Nacional",
+        "texto": "Que puntadas chicos",
         "valor": 19
       },
       {
-        "texto": "Historia",
+        "texto": "Va a pasar lo que tenga que pasar",
         "valor": 14
       },
       {
-        "texto": "Canciones",
+        "texto": "Haiga sido como haiga sido",
         "valor": 8
+      }
+    ]
+  },
+  {
+    "enunciacion": "¿Botanas que siempre había en casa de los abuelos?",
+    "respuestas": [
+      {
+        "texto": "Pistaches",
+        "valor": 34
+      },
+      {
+        "texto": "Manguitos",
+        "valor": 23
+      },
+      {
+        "texto": "Gomitas",
+        "valor": 20
+      },
+      {
+        "texto": "Chocolates",
+        "valor": 14
+      },
+      {
+        "texto": "Oreos",
+        "valor": 9
+      }
+    ]
+  },
+  {
+    "enunciacion": "¿Qué disfrutaba la abuela?",
+    "respuestas": [
+      {
+        "texto": "Fumar",
+        "valor": 31
+      },
+      {
+        "texto": "La oficina (Jugar)",
+        "valor": 28
+      },
+      {
+        "texto": "Chocolates",
+        "valor": 23
+      },
+      {
+        "texto": "Golf",
+        "valor": 12
+      },
+      {
+        "texto": "Rezar",
+        "valor": 6
+      }
+    ]
+  },
+  {
+    "enunciacion": "Comidas típicas en la casa de los abuelos.",
+    "respuestas": [
+      {
+        "texto": "Spaguetti Rosa",
+        "valor": 34
+      },
+      {
+        "texto": "Albondigas",
+        "valor": 28
+      },
+      {
+        "texto": "Sopa de Galletitas",
+        "valor": 17
+      },
+      {
+        "texto": "Lomos rellenos",
+        "valor": 12
+      },
+      {
+        "texto": "Sopa de albondiguitas",
+        "valor": 9
+      }
+    ]
+  },
+  {
+    "enunciacion": "¿Quién mas vivó en casa de los abuelos, ademas de sus hijos?",
+    "respuestas": [
+      {
+        "texto": "Fernan",
+        "valor": 37
+      },
+      {
+        "texto": "Gaby",
+        "valor": 29
+      },
+      {
+        "texto": "Yuni",
+        "valor": 15
+      },
+      {
+        "texto": "Polli",
+        "valor": 11
+      },
+      {
+        "texto": "El padre Piercen",
+        "valor": 8
+      }
+    ]
+  },
+  {
+    "enunciacion": "¿Situaciones de bullyng del Bolo a sus hermanas?",
+    "respuestas": [
+      {
+        "texto": "Pan papá Dios",
+        "valor": 41
+      },
+      {
+        "texto": "Quien eres niña?",
+        "valor": 28
+      },
+      {
+        "texto": "No pica",
+        "valor": 23
+      },
+      {
+        "texto": "Pitufos asesinos",
+        "valor": 8
+      }
+    ]
+  },
+  {
+    "enunciacion": "¿Apodos del Abuelo a la Abuela?",
+    "respuestas": [
+      {
+        "texto": "Feita",
+        "valor": 38
+      },
+      {
+        "texto": "Zampa",
+        "valor": 25
+      },
+      {
+        "texto": "Viejita",
+        "valor": 17
+      },
+      {
+        "texto": "Chula",
+        "valor": 14
+      },
+      {
+        "texto": "Panzona",
+        "valor": 6
+      }
+    ]
+  },
+  {
+    "enunciacion": "¿Mascotas que lograron tener los González?",
+    "respuestas": [
+      {
+        "texto": "Blasito",
+        "valor": 37
+      },
+      {
+        "texto": "Mostaza",
+        "valor": 24
+      },
+      {
+        "texto": "La Cajetita",
+        "valor": 16
+      },
+      {
+        "texto": "Atila / El Halcón",
+        "valor": 13
+      },
+      {
+        "texto": "Goldie",
+        "valor": 10
+      }
+    ]
+  },
+  {
+    "enunciacion": "Actividades del rancho en la infancia de los tíos",
+    "respuestas": [
+      {
+        "texto": "Contar borregas",
+        "valor": 32
+      },
+      {
+        "texto": "Polo en Burro",
+        "valor": 29
+      },
+      {
+        "texto": "Enlodarse como negritos",
+        "valor": 20
+      },
+      {
+        "texto": "Lamparear Conejos",
+        "valor": 10
+      },
+      {
+        "texto": "Paseo en Carreta",
+        "valor": 9
+      }
+    ]
+  },
+  {
+    "enunciacion": "¿Cuantos años se hizo la boda del abuelo?",
+    "respuestas": [
+      {
+        "texto": "33",
+        "valor": 40
+      },
+      {
+        "texto": "31",
+        "valor": 25
+      },
+      {
+        "texto": "32",
+        "valor": 16
+      },
+      {
+        "texto": "30", 
+        "valor": 11
+      },
+      {
+        "texto": "34",
+        "valor": 8
+      }
+    ]
+  },
+  {
+    "enunciacion": "¿Accesorio que le pones a una niña cuando la peinas?",
+    "respuestas": [
+      {
+        "texto": "Moño",
+        "valor": 34
+      },
+      {
+        "texto": "Bolitas",
+        "valor": 23
+      },
+      {
+        "texto": "Diadema",
+        "valor": 20
+      },
+      {
+        "texto": "Ligas",
+        "valor": 14
+      },
+      {
+        "texto": "Donitas",
+        "valor": 9
+      }
+    ]
+  },
+  {
+    "enunciacion": "¿Qué juego hay en un área infantil?",
+    "respuestas": [
+      {
+        "texto": "Resbaladilla",
+        "valor": 38
+      },
+      {
+        "texto": "Columpio",
+        "valor": 29
+      },
+      {
+        "texto": "Alberca de pelotas",
+        "valor": 19
+      },
+      {
+        "texto": "Brincolín",
+        "valor": 9
+      },
+      {
+        "texto": "Sube y Baja",
+        "valor": 5
       }
     ]
   },
@@ -149,7 +420,7 @@
       }
     ]
   },
-  {
+  { 
     "enunciacion": "¿Que te pones para andar en moto?.",
     "respuestas": [
       {
@@ -300,7 +571,7 @@
     ]
   },
   {
-    "enunciacion": "Mneciona una pieza de un juego geométrico.",
+    "enunciacion": "Menciona una pieza de un juego geométrico.",
     "respuestas": [
       {
         "texto": "Escuadra",
@@ -1225,7 +1496,7 @@
     ]
   },
   {
-    "enunciacion": "Animal con cuerno.",
+    "enunciacion": "Animal con cuernos.",
     "respuestas": [
       {
         "texto": "Toro",
@@ -2650,7 +2921,7 @@
     ]
   },
   {
-    "enunciacion": "Algo de adquieres a manera de inversión",
+    "enunciacion": "Algo que adquieres a manera de inversión",
     "respuestas": [
       {
         "texto": "Casa",
